@@ -1,0 +1,18 @@
+{
+  "name": "open-data-jp-kanagawa-kawasaki-nurseries",
+  "version": "0.0.0",
+  "description": "List of nurseries in Kawasaki in an accessible format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint --ignore-path .gitignore --cache --fix ."
+  },
+  "keywords": [
+    "open data",
+    "nurseries",
+    "japan",
+    "kawasaki"
+  ],
+  "author": "Fabio Crisci <piuccio@gmail.com> (https://github.com/piuccio)",
+  "license": "ISC"
+}
