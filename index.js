@@ -6,16 +6,38 @@ const convert = require('html-to-json-data');
 const {group, text, href, attr} = require('html-to-json-data/definitions');
 const writeFile = util.promisify(fs.writeFile);
 
+const KAWASAKI = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-1-0-0-0-0-0.html';
+const SAIWAI = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-2-0-0-0-0-0.html';
 const NAKAHARA = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-3-0-0-0-0-0.html';
+const TAKATSU = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-4-0-0-0-0-0.html';
+const MIYAMAE = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-5-0-0-0-0-0.html';
+const TAMA = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-6-0-0-0-0-0.html';
+const ASO = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-7-0-0-0-0-0.html';
 
 async function start() {
-  const list = await getListByWard(NAKAHARA);
-  for (const item of list) {
-    const details = await getDetails(item.link);
-    Object.assign(item, details);
+  const list = [];
+  for (const ward of [
+    KAWASAKI,
+    SAIWAI,
+    NAKAHARA,
+    TAKATSU,
+    MIYAMAE,
+    TAMA,
+    ASO,
+  ]) {
+    list.push(...await getListByWard(ward));
   }
   await writeFile('output/nurseries.json', JSON.stringify(list.map(getProperties), null, 2));
   await writeFile('output/nurseries.geojson', await geojson(list));
+}
+
+async function getListByWard(pageUrl) {
+  const list = await getWardPageDetails(pageUrl);
+  for (const item of list) {
+    const details = await getNurseryPageDetails(item.link);
+    Object.assign(item, details);
+  }
+  return list;
 }
 
 const fetch = cached('tmp/pages.json', async (pageUrl) => {
@@ -23,7 +45,7 @@ const fetch = cached('tmp/pages.json', async (pageUrl) => {
   return content;
 });
 
-async function getListByWard(pageUrl) {
+async function getWardPageDetails(pageUrl) {
   const content = await fetch(pageUrl);
   const list = convert(content, group('.catlst li', {
     name: text('a'),
@@ -31,30 +53,52 @@ async function getListByWard(pageUrl) {
     address: text('p'),
   }));
   list.forEach((item) => {
-    const [,codeBefore, codeAfter, address] = item.address.match(/^〒?\s?(\d{3})[-－](\d{4})\s+(.*)/);
+    const [,codeBefore, codeAfter, address] =
+      item.address.match(/^〒?\s?(\d{3})[-－ー](\d{4})\s+(.*)/) ||
+      console.error(`Missing address in ${pageUrl}`, item.address) ||
+      ['','','',item.address];
     item.address = address;
     item.postcode = `${codeBefore}-${codeAfter}`;
   });
   return list;
 }
 
-const PHONE_NUMBER_LABEL = /電話(?:\/FAX)?[：:](\d{3})[-－‐（）](\d{3})[-－‐（）](\d{4})/;
+const PHONE_NUMBER_LABEL = /(?:電話(?:.FAX)?|TEL)[：:\s]*(\d{3})[-－‐（）()](\d{3})[-－‐（）()](\d{4})/;
 const PHONE_NUMBER_NO_LABEL = /^(\d{3})[-－‐（）](\d{3})[-－‐（）](\d{4})/;
+const PHONE_NUMBER_WITHOUT_AREA = /電話[：:\s]*(\d{3})[-－‐（）()](\d{4})/;
 
-async function getDetails(pageUrl) {
+async function getNurseryPageDetails(pageUrl) {
   const content = await fetch(pageUrl);
   const details = convert(content, {
     geometry: attr('.mol_gmapblock iframe', 'src'),
     phone: group('.mol_textblock', text('p'))
-      .filterBy(text(':self'), (text) => text.match ? text.match(PHONE_NUMBER_LABEL) || text.match(PHONE_NUMBER_NO_LABEL) : false)
+      .filterBy(text(':self'), (text) => text.match
+        ? text.match(PHONE_NUMBER_LABEL)
+        || text.match(PHONE_NUMBER_NO_LABEL)
+        || text.match(PHONE_NUMBER_WITHOUT_AREA)
+        : false)
       .flat(),
   });
-  const [,lat,lon] = details.geometry.match(/\?ll=([\d.]+),([\d.]+)/);
-  const [,area,prefix,number] = details.phone[0].match(PHONE_NUMBER_LABEL) || details.phone[0].match(PHONE_NUMBER_NO_LABEL);
+
+  let lat,lon;
+  if (details.geometry) {
+    const match = details.geometry.match(/q=loc:([\d.]+),([\d.]+)/)
+      || details.geometry.match(/\?ll=([\d.]+),([\d.]+)/)
+      || console.log(`Missing location in ${pageUrl}`, details.geometry);
+    lat = match[1];
+    lon = match[2];
+  } else {
+    console.log(`Missing location in ${pageUrl}`);
+  }
+
+  if (details.phone.length === 0) console.log(`Missing phone number in ${pageUrl}`);
+  const [,area,prefix,number] = details.phone[0].match(PHONE_NUMBER_LABEL)
+    || details.phone[0].match(PHONE_NUMBER_NO_LABEL)
+    || details.phone[0].match(PHONE_NUMBER_WITHOUT_AREA);
   return {
     latitude: Number(lat),
     longitude: Number(lon),
-    phone: `${area}-${prefix}-${number}`,
+    phone: number ? `${area}-${prefix}-${number}` : `044-${area}-${prefix}`,
   };
 }
 
