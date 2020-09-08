@@ -6,37 +6,33 @@ const convert = require('html-to-json-data');
 const {group, text, href, attr} = require('html-to-json-data/definitions');
 const writeFile = util.promisify(fs.writeFile);
 
-const KAWASAKI = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-1-0-0-0-0-0.html';
-const SAIWAI = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-2-0-0-0-0-0.html';
-const NAKAHARA = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-3-0-0-0-0-0.html';
-const TAKATSU = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-4-0-0-0-0-0.html';
-const MIYAMAE = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-5-0-0-0-0-0.html';
-const TAMA = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-6-0-0-0-0-0.html';
-const ASO = 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-7-0-0-0-0-0.html';
+const WARDS = {
+  kawasaki: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-1-0-0-0-0-0.html',
+  saiwai: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-2-0-0-0-0-0.html',
+  nakahara: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-3-0-0-0-0-0.html',
+  takatsu: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-4-0-0-0-0-0.html',
+  miyamae: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-5-0-0-0-0-0.html',
+  tama: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-6-0-0-0-0-0.html',
+  aso: 'http://www.city.kawasaki.jp/kurashi/category/17-2-10-1-7-0-0-0-0-0.html',
+};
 
 async function start() {
   const list = [];
-  for (const ward of [
-    KAWASAKI,
-    SAIWAI,
-    NAKAHARA,
-    TAKATSU,
-    MIYAMAE,
-    TAMA,
-    ASO,
-  ]) {
-    list.push(...await getListByWard(ward));
+  for (const [wardName, pageUrl] of Object.entries(WARDS)) {
+    list.push(...await getListByWard(pageUrl, wardName));
   }
-  await writeFile('output/nurseries.json', JSON.stringify(list.map(getProperties), null, 2));
-  await writeFile('output/nurseries.geojson', await geojson(list));
+  await writeFile('output/all.json', JSON.stringify(list.map(getProperties), null, 2));
+  await writeFile('output/all.geojson', await geojson(list));
 }
 
-async function getListByWard(pageUrl) {
+async function getListByWard(pageUrl, wardName) {
   const list = await getWardPageDetails(pageUrl);
   for (const item of list) {
     const details = await getNurseryPageDetails(item.link);
     Object.assign(item, details);
   }
+  await writeFile(`output/${wardName}.json`, JSON.stringify(list.map(getProperties), null, 2));
+  await writeFile(`output/${wardName}.geojson`, await geojson(list));
   return list;
 }
 

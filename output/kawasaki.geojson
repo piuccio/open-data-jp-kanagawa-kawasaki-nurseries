@@ -1,0 +1,787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71473745089008,
+          35.52366886757586
+        ]
+      },
+      "properties": {
+        "name": "大島保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031349.html",
+        "address": "川崎区大島4-17-2（川崎区保育・子育て総合支援センター内）",
+        "postcode": "210-0834",
+        "phone": "044-222-7252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70172682453094,
+          35.53323684338214
+        ]
+      },
+      "properties": {
+        "name": "川崎乳児保育所",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031390.html",
+        "address": "川崎区本町1-1-1",
+        "postcode": "210-0001",
+        "phone": "044-222-2171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70178315092943,
+          35.5332062853063
+        ]
+      },
+      "properties": {
+        "name": "夜間保育所あいいく",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031402.html",
+        "address": "川崎区本町1-1-1",
+        "postcode": "210-0001",
+        "phone": "044-222-2171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69844792394082,
+          35.52729376050664
+        ]
+      },
+      "properties": {
+        "name": "アスク川崎東口保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031413.html",
+        "address": "川崎区小川町13-9",
+        "postcode": "210-0023",
+        "phone": "044-233-5030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70894780000003,
+          35.5303752
+        ]
+      },
+      "properties": {
+        "name": "のぞみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031431.html",
+        "address": "川崎区富士見1-6-10",
+        "postcode": "210-0011",
+        "phone": "044-223-2229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69521419755128,
+          35.52413079523345
+        ]
+      },
+      "properties": {
+        "name": "ゆめいく日進町保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031441.html",
+        "address": "川崎区日進町20-3",
+        "postcode": "210-0024",
+        "phone": "044-221-7035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69619761533582,
+          35.5241224998337
+        ]
+      },
+      "properties": {
+        "name": "あすいく保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031525.html",
+        "address": "川崎区日進町22-14",
+        "postcode": "210-0024",
+        "phone": "044-221-1015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69681953861735,
+          35.50697755734212
+        ]
+      },
+      "properties": {
+        "name": "京町いづみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031537.html",
+        "address": "川崎区京町3-26-1",
+        "postcode": "210-0848",
+        "phone": "044-322-3811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69708779999996,
+          35.52665640000001
+        ]
+      },
+      "properties": {
+        "name": "川崎おおぞら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031545.html",
+        "address": "川崎区小川町11-9　大三コーポ1階",
+        "postcode": "210-0023",
+        "phone": "044-200-9481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70370660000003,
+          35.5296532
+        ]
+      },
+      "properties": {
+        "name": "レイモンド川崎保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031552.html",
+        "address": "川崎区東田町8　パレールビル3階",
+        "postcode": "210-0005",
+        "phone": "044-201-1313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6950429987085,
+          35.52726287564929
+        ]
+      },
+      "properties": {
+        "name": "川崎もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031556.html",
+        "address": "川崎区日進町1-68 サンスクエア川崎8号棟 2階",
+        "postcode": "210-0024",
+        "phone": "044-246-1815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71913570000004,
+          35.530714
+        ]
+      },
+      "properties": {
+        "name": "藤崎保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031573.html",
+        "address": "川崎区藤崎1-7-1",
+        "postcode": "210-0804",
+        "phone": "044-211-1306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73914310489351,
+          35.53266710000006
+        ]
+      },
+      "properties": {
+        "name": "大師保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031637.html",
+        "address": "川崎区出来野1-17",
+        "postcode": "210-0825",
+        "phone": "044-266-7939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72263897924645,
+          35.52754991729322
+        ]
+      },
+      "properties": {
+        "name": "かわなかじま保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031642.html",
+        "address": "川崎区藤崎2-19-2",
+        "postcode": "210-0804",
+        "phone": "044-246-7510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73298274418025,
+          35.53641365693293
+        ]
+      },
+      "properties": {
+        "name": "東門前保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031652.html",
+        "address": "川崎区東門前1-8-2",
+        "postcode": "210-0812",
+        "phone": "044-266-8984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73218364784472,
+          35.53929816629342
+        ]
+      },
+      "properties": {
+        "name": "中瀬新生保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031660.html",
+        "address": "川崎区中瀬3-20-16",
+        "postcode": "210-0818",
+        "phone": "044-280-1017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73332370000003,
+          35.5271093
+        ]
+      },
+      "properties": {
+        "name": "よつば保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031670.html",
+        "address": "川崎区四谷上町14-8",
+        "postcode": "210-0828",
+        "phone": "044-288-4289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.730957,
+          35.5350999
+        ]
+      },
+      "properties": {
+        "name": "アスク東門前保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031682.html",
+        "address": "川崎区大師本町9-11-3F",
+        "postcode": "210-0817",
+        "phone": "044-270-3412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70691239999996,
+          35.5115667
+        ]
+      },
+      "properties": {
+        "name": "東小田保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031702.html",
+        "address": "川崎区小田5-14-1",
+        "postcode": "210-0846",
+        "phone": "044-355-6620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72783271963243,
+          35.52209662221351
+        ]
+      },
+      "properties": {
+        "name": "聖美保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031708.html",
+        "address": "川崎区桜本2-41-11",
+        "postcode": "210-0833",
+        "phone": "044-266-7227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7196561748635,
+          35.51477426968725
+        ]
+      },
+      "properties": {
+        "name": "あいせん保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031714.html",
+        "address": "川崎区浜町2-22-16",
+        "postcode": "210-0851",
+        "phone": "044-344-5365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72207706072203,
+          35.52096890129023
+        ]
+      },
+      "properties": {
+        "name": "桜本保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031718.html",
+        "address": "川崎区桜本1-9-6",
+        "postcode": "210-0833",
+        "phone": "044-288-2545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71235357113866,
+          35.52493125350098
+        ]
+      },
+      "properties": {
+        "name": "西大島ルーテル保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031727.html",
+        "address": "川崎区大島1-24-12",
+        "postcode": "210-0834",
+        "phone": "044-280-6222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71468674958916,
+          35.52872093251001
+        ]
+      },
+      "properties": {
+        "name": "ランゲージ・ハウスNakajima保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119007.html",
+        "address": "川崎区中島2丁目1番8号",
+        "postcode": "210-0806",
+        "phone": "044-201-9282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72598823726403,
+          35.533536148630596
+        ]
+      },
+      "properties": {
+        "name": "Nest川崎大師保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118749.html",
+        "address": "川崎区大師駅前1-2-15",
+        "postcode": "210-0802",
+        "phone": "044-266-1220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7280136923162,
+          35.53341100004733
+        ]
+      },
+      "properties": {
+        "name": "大師駅前ひよこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000064758.html",
+        "address": "川崎区川中島 1丁目21－4",
+        "postcode": "210-0803",
+        "phone": "044-266-1450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72611966552424,
+          35.527457054445144
+        ]
+      },
+      "properties": {
+        "name": "マジオたんぽぽ保育園観音",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118623.html",
+        "address": "川崎区観音1丁目8番20号",
+        "postcode": "210-0831",
+        "phone": "044-589-4402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7004505667255,
+          35.53387103275785
+        ]
+      },
+      "properties": {
+        "name": "ルミナ保育園川崎",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109872.html",
+        "address": "川崎区駅前本町22-9",
+        "postcode": "210-0007",
+        "phone": "044-201-8915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7299964633427,
+          35.53282606986415
+        ]
+      },
+      "properties": {
+        "name": "だるま国際ころころ園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118606.html",
+        "address": "川崎区大師町3-7",
+        "postcode": "210-0816",
+        "phone": "044-288-0116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7068251387887,
+          35.516901494846714
+        ]
+      },
+      "properties": {
+        "name": "川崎コスモス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118268.html",
+        "address": "川崎区渡田東町7-9",
+        "postcode": "210-0842",
+        "phone": "044-276-9956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7029645423289,
+          35.51254367285801
+        ]
+      },
+      "properties": {
+        "name": "小田さくら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000100116.html",
+        "address": "神奈川県川崎市川崎区小田3-17-3",
+        "postcode": "210-0846",
+        "phone": "044-280-7922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7384621000018,
+          35.53469344680469
+        ]
+      },
+      "properties": {
+        "name": "出来野ルーテル保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050740.html",
+        "address": "川崎区出来野6-7",
+        "postcode": "210-0825",
+        "phone": "044-201-1146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73764106785046,
+          35.533121850601034
+        ]
+      },
+      "properties": {
+        "name": "つめくさ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109686.html",
+        "address": "川崎区昭和1-5-8",
+        "postcode": "210-0813",
+        "phone": "044-201-9789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7060590982437,
+          35.51452215963463
+        ]
+      },
+      "properties": {
+        "name": "ベネッセ川崎新町保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000068921.html",
+        "address": "川崎区小田栄2-3-2",
+        "postcode": "210-0843",
+        "phone": "044-329-1281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70089443682096,
+          35.53233695136892
+        ]
+      },
+      "properties": {
+        "name": "京急キッズランド京急川崎保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000080818.html",
+        "address": "川崎区砂子1－3－1　京急ショッピングプラザウィング川崎5階",
+        "postcode": "210-0006",
+        "phone": "044-245-5802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73957224889966,
+          35.5360095845591
+        ]
+      },
+      "properties": {
+        "name": "川崎ふたば保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000081128.html",
+        "address": "川崎区大師河原2－2－2",
+        "postcode": "210-0811",
+        "phone": "044-200-4113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71653517882257,
+          35.52523481509588
+        ]
+      },
+      "properties": {
+        "name": "京進のほいくえんHOPPA大島五丁目",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089358.html",
+        "address": "川崎市川崎区大島5丁目11番13号ラポルテ511　2階",
+        "postcode": "210-0834",
+        "phone": "044-589-8704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69732205707666,
+          35.51449606857278
+        ]
+      },
+      "properties": {
+        "name": "パピー保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079127.html",
+        "address": "神奈川県川崎市川崎区小田2-2-3",
+        "postcode": "210-0846",
+        "phone": "044-201-7160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72623467445374,
+          35.52560785196652
+        ]
+      },
+      "properties": {
+        "name": "かんのん町保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060551.html",
+        "address": "川崎市川崎区観音1-10-3",
+        "postcode": "210-0831",
+        "phone": "044-280-6226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74268198013306,
+          35.53116103786243
+        ]
+      },
+      "properties": {
+        "name": "だいしの里保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050744.html",
+        "address": "川崎区日ノ出1-16-11",
+        "postcode": "210-0824",
+        "phone": "044-589-5281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71219062805176,
+          35.535351867074844
+        ]
+      },
+      "properties": {
+        "name": "京急キッズランド港町駅前保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048905.html",
+        "address": "川崎区港町5-4",
+        "postcode": "210-0807",
+        "phone": "044-245-0231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6959337592125,
+          35.516887330420865
+        ]
+      },
+      "properties": {
+        "name": "若草保育園　京町",
+        "link": "http://www.city.kawasaki.jp/450/page/0000080834.html",
+        "address": "川崎区渡田山王町20−35 2階",
+        "postcode": "210-0845",
+        "phone": "044-329-1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71937894821167,
+          35.535020101075006
+        ]
+      },
+      "properties": {
+        "name": "キディ鈴木町・川崎",
+        "link": "http://www.city.kawasaki.jp/450/page/0000069024.html",
+        "address": "川崎区鈴木町3-2",
+        "postcode": "210-0801",
+        "phone": "044-246-0400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7093152999878,
+          35.52412012657395
+        ]
+      },
+      "properties": {
+        "name": "境町パイナップル保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000081290.html",
+        "address": "川崎市川崎区境町11番9",
+        "postcode": "210-0838",
+        "phone": "044-222-8686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70328569412231,
+          35.5176187977052
+        ]
+      },
+      "properties": {
+        "name": "新町しほかぜ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079117.html",
+        "address": "川崎区渡田4-9-4",
+        "postcode": "210-0837",
+        "phone": "044-223-8818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7306951880455,
+          35.5373226816165
+        ]
+      },
+      "properties": {
+        "name": "ココファン・ナーサリー川崎大師",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079487.html",
+        "address": "川崎区中瀬3-14-3",
+        "postcode": "210-0818",
+        "phone": "044-299-2751"
+      }
+    }
+  ]
+}

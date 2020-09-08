@@ -1,0 +1,906 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53628709999998,
+          35.6326786
+        ]
+      },
+      "properties": {
+        "name": "菅保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031428.html",
+        "address": "多摩区菅1-5-24",
+        "postcode": "214-0001",
+        "phone": "044-945-5109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.549031,
+          35.6230747
+        ]
+      },
+      "properties": {
+        "name": "土渕保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031534.html",
+        "address": "多摩区生田2-14-5",
+        "postcode": "214-0038",
+        "phone": "044-933-8942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57953582024263,
+          35.613870208502085
+        ]
+      },
+      "properties": {
+        "name": "保育園アリス宿河原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031547.html",
+        "address": "多摩区宿河原3-13-9",
+        "postcode": "214-0021",
+        "phone": "044-455-5211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55773153312236,
+          35.62226461467473
+        ]
+      },
+      "properties": {
+        "name": "稲田保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031366.html",
+        "address": "多摩区登戸1416",
+        "postcode": "214-0014",
+        "phone": "044-933-7335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53558980000108,
+          35.635772500000314
+        ]
+      },
+      "properties": {
+        "name": "厚生館愛児園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031382.html",
+        "address": "多摩区菅稲田堤1-11-8",
+        "postcode": "214-0003",
+        "phone": "044-944-4733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59386812394658,
+          35.61187092288032
+        ]
+      },
+      "properties": {
+        "name": "龍厳寺保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031395.html",
+        "address": "多摩区堰3-11-13",
+        "postcode": "214-0022",
+        "phone": "044-811-0436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59047862638934,
+          35.609291255033995
+        ]
+      },
+      "properties": {
+        "name": "ひばり保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031467.html",
+        "address": "多摩区宿河原6-46-6",
+        "postcode": "214-0021",
+        "phone": "044-811-1255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53245079140015,
+          35.617749546612856
+        ]
+      },
+      "properties": {
+        "name": "第二厚生館愛児園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031404.html",
+        "address": "多摩区寺尾台1-1-19",
+        "postcode": "214-0005",
+        "phone": "044-955-2933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54134894284766,
+          35.63311264003013
+        ]
+      },
+      "properties": {
+        "name": "なごみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031426.html",
+        "address": "多摩区菅稲田堤3-9-2",
+        "postcode": "214-0003",
+        "phone": "044-944-2082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5342263355804,
+          35.63410091036121
+        ]
+      },
+      "properties": {
+        "name": "星の子愛児園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031435.html",
+        "address": "多摩区菅稲田堤1-17-25",
+        "postcode": "214-0003",
+        "phone": "044-944-8181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5635109245369,
+          35.62051717113237
+        ]
+      },
+      "properties": {
+        "name": "KFJ多摩なのはな保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031460.html",
+        "address": "多摩区登戸2249-1",
+        "postcode": "214-0014",
+        "phone": "044-930-1261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5906376687171,
+          35.609605196778695
+        ]
+      },
+      "properties": {
+        "name": "ひばりっこくらぶ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031471.html",
+        "address": "多摩区宿河原6-35-16",
+        "postcode": "214-0021",
+        "phone": "044-844-7448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53398847412583,
+          35.60796375322388
+        ]
+      },
+      "properties": {
+        "name": "太陽の子保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031478.html",
+        "address": "多摩区栗谷2-16-14",
+        "postcode": "214-0039",
+        "phone": "044-954-3906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54990721838723,
+          35.628956793542784
+        ]
+      },
+      "properties": {
+        "name": "ハグミー・ナーサリー",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031482.html",
+        "address": "多摩区中野島3-15-15",
+        "postcode": "214-0012",
+        "phone": "044-935-6788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5729106668589,
+          35.620477263638264
+        ]
+      },
+      "properties": {
+        "name": "そらまめ保育園　分園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031512.html",
+        "address": "多摩区宿河原1-1-40",
+        "postcode": "214-0021",
+        "phone": "044-900-1527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57146780000892,
+          35.61983907618194
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園登戸",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031516.html",
+        "address": "多摩区登戸3329-6",
+        "postcode": "214-0014",
+        "phone": "044-322-8041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57641571220427,
+          35.611970960684815
+        ]
+      },
+      "properties": {
+        "name": "うぃず宿河原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031519.html",
+        "address": "多摩区長尾4-1-2",
+        "postcode": "214-0023",
+        "phone": "044-299-6846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56414732518186,
+          35.625264760023846
+        ]
+      },
+      "properties": {
+        "name": "ぶどうの実登戸園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031524.html",
+        "address": "多摩区登戸新町187 スカイノート101",
+        "postcode": "214-0013",
+        "phone": "044-931-3550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5720271779091,
+          35.61834376128371
+        ]
+      },
+      "properties": {
+        "name": "のぼりっこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031533.html",
+        "address": "多摩区登戸3185",
+        "postcode": "214-0014",
+        "phone": "044-932-1558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5355224417429,
+          35.63549872607232
+        ]
+      },
+      "properties": {
+        "name": "至誠館なしのはな保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031541.html",
+        "address": "多摩区菅稲田堤1-10-5",
+        "postcode": "214-0003",
+        "phone": "044-944-7451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57475130610877,
+          35.61195628672153
+        ]
+      },
+      "properties": {
+        "name": "宿河原もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031554.html",
+        "address": "多摩区長尾1-11-6",
+        "postcode": "214-0023",
+        "phone": "044-900-6080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55773263197753,
+          35.620731336420945
+        ]
+      },
+      "properties": {
+        "name": "アスク向ヶ丘遊園北保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031558.html",
+        "address": "多摩区登戸514-1",
+        "postcode": "214-0014",
+        "phone": "044-922-2280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56877273313515,
+          35.612996117542274
+        ]
+      },
+      "properties": {
+        "name": "アスク向ヶ丘遊園南保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031568.html",
+        "address": "多摩区宿河原2-48-36",
+        "postcode": "214-0021",
+        "phone": "044-930-0102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5392933245332,
+          35.627757128007566
+        ]
+      },
+      "properties": {
+        "name": "うぃず稲田堤保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031572.html",
+        "address": "多摩区菅馬場2-5-9",
+        "postcode": "214-0004",
+        "phone": "044-712-7746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57556183068417,
+          35.61650669699105
+        ]
+      },
+      "properties": {
+        "name": "アスク宿河原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031577.html",
+        "address": "多摩区宿河原2-5-1",
+        "postcode": "214-0021",
+        "phone": "044-934-1415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5702721036572,
+          35.61901071384385
+        ]
+      },
+      "properties": {
+        "name": "「こころの花」ほいくえん登戸駅前",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119789.html",
+        "address": "多摩区登戸3277-1",
+        "postcode": "214-0014",
+        "phone": "044-322-0087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52935755480166,
+          35.61535389548254
+        ]
+      },
+      "properties": {
+        "name": "読売ランド前どろんこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119790.html",
+        "address": "多摩区西生田1-7-1",
+        "postcode": "214-0037",
+        "phone": "044-299-6561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56661021779917,
+          35.6167253402176
+        ]
+      },
+      "properties": {
+        "name": "ゆりの花保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119808.html",
+        "address": "多摩区登戸2949-1　2・3F",
+        "postcode": "214-0014",
+        "phone": "044-712-5244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60965766081674,
+          35.605346385123006
+        ]
+      },
+      "properties": {
+        "name": "溝口ピノキオ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119665.html",
+        "address": "高津区溝口3-24-5",
+        "postcode": "213-0001",
+        "phone": "044-712-5301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57888031823222,
+          35.61479982135246
+        ]
+      },
+      "properties": {
+        "name": "すみれいろ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118761.html",
+        "address": "多摩区宿河原3－3－15",
+        "postcode": "214-0021",
+        "phone": "044-543-8410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52896925893634,
+          35.61204841366832
+        ]
+      },
+      "properties": {
+        "name": "生田保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031410.html",
+        "address": "多摩区西生田3-15-10",
+        "postcode": "214-0037",
+        "phone": "044-966-2502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54336941469342,
+          35.614480387209994
+        ]
+      },
+      "properties": {
+        "name": "生田ルミナス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119052.html",
+        "address": "多摩区三田1-7-7",
+        "postcode": "214-0034",
+        "phone": "044-712-4471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55200491915255,
+          35.622077872288585
+        ]
+      },
+      "properties": {
+        "name": "登戸ピノキオ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118755.html",
+        "address": "多摩区生田2－20－23",
+        "postcode": "214-0038",
+        "phone": "044-819-5581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5508059717259,
+          35.62989907008009
+        ]
+      },
+      "properties": {
+        "name": "ウィズブック保育園中野島",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118764.html",
+        "address": "多摩区中野島3－13－11",
+        "postcode": "214-0012",
+        "phone": "044-712-7260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56466638456305,
+          35.61972997658101
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館登戸園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089132.html",
+        "address": "多摩区登戸2184－1　トミタヤBLD1・2F",
+        "postcode": "214-0014",
+        "phone": "044-712-5048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54764318269824,
+          35.63197216671802
+        ]
+      },
+      "properties": {
+        "name": "中野島フレンズ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050760.html",
+        "address": "多摩区布田18-25",
+        "postcode": "214-0011",
+        "phone": "044-944-9288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5583666543442,
+          35.62749425062189
+        ]
+      },
+      "properties": {
+        "name": "なかのしまのぞみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050762.html",
+        "address": "多摩区中野島4-20-23",
+        "postcode": "214-0012",
+        "phone": "044-328-5971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56582719999707,
+          35.61371180146636
+        ]
+      },
+      "properties": {
+        "name": "うぃず向ヶ丘遊園保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000072143.html",
+        "address": "多摩区東生田1-11-12",
+        "postcode": "214-0031",
+        "phone": "044-922-9422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56596579814274,
+          35.61614153384947
+        ]
+      },
+      "properties": {
+        "name": "クレアナーサリー向ヶ丘遊園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000072150.html",
+        "address": "多摩区登戸2700-4",
+        "postcode": "214-0031",
+        "phone": "044-819-4714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5410191042296,
+          35.63106956391275
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園稲田堤",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099229.html",
+        "address": "多摩区菅馬場1-23-32",
+        "postcode": "214-0004",
+        "phone": "044-299-8583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5737099651343,
+          35.62023070959927
+        ]
+      },
+      "properties": {
+        "name": "そらまめ保育園　本園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109603.html",
+        "address": "多摩区宿河原1-1-32",
+        "postcode": "214-0021",
+        "phone": "044-299-8760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5943021774292,
+          35.61379778582425
+        ]
+      },
+      "properties": {
+        "name": "こひばり保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048915.html",
+        "address": "多摩区堰2-6-21",
+        "postcode": "214-0022",
+        "phone": "044-819-5143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52717185020447,
+          35.61207514847866
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミー西いくた保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000058792.html",
+        "address": "多摩区西生田3-13-7",
+        "postcode": "214-0037",
+        "phone": "044-969-7431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53829002945682,
+          35.63310909093277
+        ]
+      },
+      "properties": {
+        "name": "第2くまのこ園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078243.html",
+        "address": "多摩区菅稲田堤3-1-2",
+        "postcode": "214-0003",
+        "phone": "044-819-5263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56806876668279,
+          35.61852531396524
+        ]
+      },
+      "properties": {
+        "name": "登戸ゆりのき保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089138.html",
+        "address": "多摩区登戸2596　川崎信用金庫登戸支店4階及び5階一部",
+        "postcode": "214-0014",
+        "phone": "044-322-8075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56991843624704,
+          35.6152169175035
+        ]
+      },
+      "properties": {
+        "name": "西しゅくマーノ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048942.html",
+        "address": "多摩区宿河原2-19-6",
+        "postcode": "214-0021",
+        "phone": "044-933-1152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54239716382122,
+          35.61295458129466
+        ]
+      },
+      "properties": {
+        "name": "三田かしのみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000059222.html",
+        "address": "多摩区三田1-18-3",
+        "postcode": "214-0034",
+        "phone": "044-932-2111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55951668185608,
+          35.61882711164777
+        ]
+      },
+      "properties": {
+        "name": "ココファン・ナーサリー登戸",
+        "link": "http://www.city.kawasaki.jp/450/page/0000069704.html",
+        "address": "多摩区登戸1612",
+        "postcode": "214-0014",
+        "phone": "044-930-1251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53314908752472,
+          35.635249422502376
+        ]
+      },
+      "properties": {
+        "name": "のらぼう愛児園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089935.html",
+        "address": "多摩区菅5－2－1",
+        "postcode": "214-0001",
+        "phone": "044-945-6331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56112720974068,
+          35.62810542287384
+        ]
+      },
+      "properties": {
+        "name": "中野島のはら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089934.html",
+        "address": "多摩区中野島4－4－15",
+        "postcode": "214-0012",
+        "phone": "044-455-5510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53582046998363,
+          35.63439974189035
+        ]
+      },
+      "properties": {
+        "name": "菅の子愛児園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098376.html",
+        "address": "多摩区菅稲田堤1－3－16",
+        "postcode": "214-0003",
+        "phone": "044-945-2221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5326930142563,
+          35.60621484639663
+        ]
+      },
+      "properties": {
+        "name": "南いくた保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098698.html",
+        "address": "多摩区南生田3-2-7",
+        "postcode": "214-0036",
+        "phone": "044-712-4656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54491338772814,
+          35.615995652450174
+        ]
+      },
+      "properties": {
+        "name": "アスク生田保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060142.html",
+        "address": "多摩区生田8-8-14",
+        "postcode": "214-0038",
+        "phone": "044-911-7791"
+      }
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "古川保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031686.html",
+    "address": "幸区塚越2丁目159-28",
+    "postcode": "212-0024",
+    "phone": "044-522-6301"
+  },
+  {
+    "name": "北加瀬保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031701.html",
+    "address": "幸区北加瀬3-19-1",
+    "postcode": "212-0057",
+    "phone": "044-411-3047"
+  },
+  {
+    "name": "河原町保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031733.html",
+    "address": "幸区河原町1",
+    "postcode": "212-0007",
+    "phone": "044-522-6650"
+  },
+  {
+    "name": "夢見ヶ崎保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031732.html",
+    "address": "幸区南加瀬3-4-8",
+    "postcode": "212-0055",
+    "phone": "044-588-4130"
+  },
+  {
+    "name": "YMCAかわさき保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031743.html",
+    "address": "幸区大宮町26-3　アーベインビオ川崎3号棟102",
+    "postcode": "212-0014",
+    "phone": "044-520-1825"
+  },
+  {
+    "name": "アスク川崎西口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031734.html",
+    "address": "幸区大宮町1310　ミューザ川崎1階",
+    "postcode": "212-0014",
+    "phone": "044-520-8025"
+  },
+  {
+    "name": "どりーむ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031720.html",
+    "address": "幸区北加瀬1-31-5",
+    "postcode": "212-0057",
+    "phone": "044-580-3020"
+  },
+  {
+    "name": "保育園フェリチッタ",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031712.html",
+    "address": "幸区南幸町2-76",
+    "postcode": "212-0016",
+    "phone": "044-544-5033"
+  },
+  {
+    "name": "つくし保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031703.html",
+    "address": "幸区戸手本町2-420-1",
+    "postcode": "212-0023",
+    "phone": "044-223-7531"
+  },
+  {
+    "name": "にじいろ保育園新川崎",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031690.html",
+    "address": "幸区小倉1-4-24",
+    "postcode": "212-0054",
+    "phone": "044-599-6790"
+  },
+  {
+    "name": "ふくじゅ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031671.html",
+    "address": "幸区鹿島田1-21-8",
+    "postcode": "212-0058",
+    "phone": "044-201-8080"
+  },
+  {
+    "name": "新川崎もりのこ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031584.html",
+    "address": "幸区新川崎3-1",
+    "postcode": "212-0032",
+    "phone": "044-599-3808"
+  },
+  {
+    "name": "小学館アカデミー南さいわい町保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031569.html",
+    "address": "幸区南幸町3-97　リバーセンタービル2階",
+    "postcode": "212-0016",
+    "phone": "044-542-4151"
+  },
+  {
+    "name": "鹿島田もりのこ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031500.html",
+    "address": "幸区下平間290",
+    "postcode": "212-0053",
+    "phone": "044-522-3565"
+  },
+  {
+    "name": "どりーむ東小倉保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031494.html",
+    "address": "幸区東小倉2-36",
+    "postcode": "212-0033",
+    "phone": "044-542-7885"
+  },
+  {
+    "name": "かわの風保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031483.html",
+    "address": "幸区戸手2-12-10",
+    "postcode": "212-0005",
+    "phone": "044-542-8133"
+  },
+  {
+    "name": "ゲートタワーローズ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000036108.html",
+    "address": "幸区大宮町31-1　川崎ゲートタワー1階",
+    "postcode": "212-0014",
+    "phone": "044-589-3552"
+  },
+  {
+    "name": "おぐら保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109474.html",
+    "address": "神奈川県川崎市幸区小倉4-6-23",
+    "postcode": "212-0054",
+    "phone": "044-223-8012"
+  },
+  {
+    "name": "みなみかせ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000118922.html",
+    "address": "幸区南加瀬3-12-8",
+    "postcode": "212-0055",
+    "phone": "044-201-8042"
+  },
+  {
+    "name": "まなびの森保育園矢向",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089119.html",
+    "address": "幸区小倉3-1-15",
+    "postcode": "212-0054",
+    "phone": "044-588-0180"
+  },
+  {
+    "name": "新川崎えほんの森保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000118816.html",
+    "address": "幸区北加瀬1-10-1",
+    "postcode": "212-0057",
+    "phone": "044-280-9450"
+  },
+  {
+    "name": "みなみがわら保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000118865.html",
+    "address": "幸区河原町1-77",
+    "postcode": "212-0007",
+    "phone": "044-396-3171"
+  },
+  {
+    "name": "小倉はなかご保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000059172.html",
+    "address": "川崎市幸区小倉4丁目15番8号",
+    "postcode": "210-0054",
+    "phone": "044-580-1001"
+  },
+  {
+    "name": "キッズガーデン川崎幸町",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079025.html",
+    "address": "幸区幸町2-593　モリファーストビル6階",
+    "postcode": "215-0004",
+    "phone": "044-589-6200"
+  },
+  {
+    "name": "保育園アレッタ",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089050.html",
+    "address": "幸区南幸町3-3",
+    "postcode": "212-0016",
+    "phone": "044-742-3550"
+  },
+  {
+    "name": "あいみー南加瀬保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089078.html",
+    "address": "幸区南加瀬3－4－20",
+    "postcode": "212-0055",
+    "phone": "044-200-4266"
+  },
+  {
+    "name": "ひよし保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078437.html",
+    "address": "幸区南加瀬2-9-20",
+    "postcode": "212-0055",
+    "phone": "044-588-3555"
+  },
+  {
+    "name": "プレシャススターズ保育園小倉園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000088458.html",
+    "address": "幸区小倉3-2-23　セレーヌサクラ1階",
+    "postcode": "212-0054",
+    "phone": "044-276-8805"
+  },
+  {
+    "name": "マミー保育園新川崎",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078386.html",
+    "address": "川崎市幸区新川崎5-2　3階",
+    "postcode": "212-0032",
+    "phone": "044-201-8985"
+  },
+  {
+    "name": "Nest鹿島田保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000118479.html",
+    "address": "幸区下平間326-8",
+    "postcode": "212-0053",
+    "phone": "044-542-6134"
+  },
+  {
+    "name": "第2ひまわりほいくえん",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109468.html",
+    "address": "神奈川県川崎市幸区北加瀬2-1-24",
+    "postcode": "212-0057",
+    "phone": "044-280-9500"
+  },
+  {
+    "name": "にじいろ保育園鹿島田",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078288.html",
+    "address": "神奈川県川崎市幸区鹿島田1-10-22",
+    "postcode": "212-0058",
+    "phone": "044-200-4615"
+  },
+  {
+    "name": "にじいろ保育園塚越",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079391.html",
+    "address": "塚越4－345－11",
+    "postcode": "212-0024",
+    "phone": "044-555-0553"
+  },
+  {
+    "name": "マジオたんぽぽ保育園下平間",
+    "link": "http://www.city.kawasaki.jp/450/page/0000097970.html",
+    "address": "幸区下平間386-1",
+    "postcode": "212-0053",
+    "phone": "044-511-8000"
+  },
+  {
+    "name": "保育園リエッタ",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079028.html",
+    "address": "幸区南幸町2-9　ラゾーナサイドビル2・3階",
+    "postcode": "212-0016",
+    "phone": "044-541-9885"
+  },
+  {
+    "name": "にじいろ保育園北加瀬",
+    "link": "http://www.city.kawasaki.jp/450/page/0000099238.html",
+    "address": "北加瀬2－11－4",
+    "postcode": "212-0024",
+    "phone": "044-589-6003"
+  },
+  {
+    "name": "らいらっく幸保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079001.html",
+    "address": "幸区塚越2－220－37",
+    "postcode": "-",
+    "phone": "044-589-8601"
+  },
+  {
+    "name": "日生夢見ヶ崎保育園ひびき",
+    "link": "http://www.city.kawasaki.jp/450/page/0000060350.html",
+    "address": "幸区南加瀬1－13－5",
+    "postcode": "212-0055",
+    "phone": "044-200-4612"
+  },
+  {
+    "name": "日生鹿島田保育園ひびき",
+    "link": "http://www.city.kawasaki.jp/450/page/0000060553.html",
+    "address": "幸区下平間143－16",
+    "postcode": "212-0053",
+    "phone": "044-280-6121"
+  },
+  {
+    "name": "わらべうた幸町保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000058869.html",
+    "address": "川崎市幸区幸町1-749-2",
+    "postcode": "212-0011",
+    "phone": "044-511-1277"
+  },
+  {
+    "name": "かわさき大宮町保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078405.html",
+    "address": "幸区大宮町9-1　ヴィルクレール川崎タワー1階",
+    "postcode": "212-0014",
+    "phone": "044-520-1070"
+  },
+  {
+    "name": "小学館アカデミーしんかわさき保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000050734.html",
+    "address": "幸区鹿島田1-1-3",
+    "postcode": "212-0058",
+    "phone": "044-542-3561"
+  },
+  {
+    "name": "幸いづみ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078464.html",
+    "address": "幸区南幸町3-149-3",
+    "postcode": "-",
+    "phone": "044-542-5696"
+  },
+  {
+    "name": "小向さくら保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078830.html",
+    "address": "幸区小向西町3－52－3",
+    "postcode": "-",
+    "phone": "044-511-6555"
+  },
+  {
+    "name": "らいらっく山吹保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089025.html",
+    "address": "幸区塚越1丁目60－160",
+    "postcode": "212-0024",
+    "phone": "044-223-8388"
+  },
+  {
+    "name": "京進のほいくえんHOPPA南河原",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089297.html",
+    "address": "幸区神明町2-29-6　ウイングルート1階",
+    "postcode": "212-0022",
+    "phone": "044-276-9507"
+  },
+  {
+    "name": "新川崎・学びの保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089080.html",
+    "address": "幸区鹿島田1-6-5",
+    "postcode": "212-0058",
+    "phone": "044-201-8340"
+  },
+  {
+    "name": "新川崎みらいのそら保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089082.html",
+    "address": "幸区北加瀬1－11－4",
+    "postcode": "212-0057",
+    "phone": "044-589-5588"
+  },
+  {
+    "name": "SPACE　KID保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000097962.html",
+    "address": "幸区下平間259-1",
+    "postcode": "212-0053",
+    "phone": "044-201-7751"
+  },
+  {
+    "name": "キディ古市場保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000050731.html",
+    "address": "幸区古市場2-97",
+    "postcode": "212-0052",
+    "phone": "044-542-1711"
+  }
+]

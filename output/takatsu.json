@@ -1,0 +1,422 @@
+[
+  {
+    "name": "蟹ヶ谷保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030562.html",
+    "address": "高津区蟹ヶ谷339",
+    "postcode": "213-0025",
+    "phone": "044-751-9040"
+  },
+  {
+    "name": "津田山保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030731.html",
+    "address": "高津区下作延5-1-10",
+    "postcode": "213-0033",
+    "phone": "044-888-5291"
+  },
+  {
+    "name": "梶ヶ谷保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030774.html",
+    "address": "高津区梶ヶ谷5-8-2",
+    "postcode": "213-0015",
+    "phone": "044-865-0355"
+  },
+  {
+    "name": "緑の杜保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030846.html",
+    "address": "高津区下作延2-6-3",
+    "postcode": "213-0033",
+    "phone": "044-866-6914"
+  },
+  {
+    "name": "坂戸保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030861.html",
+    "address": "高津区坂戸3-7-21",
+    "postcode": "213-0012",
+    "phone": "044-811-6922"
+  },
+  {
+    "name": "みぞのくち保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030869.html",
+    "address": "高津区溝口4-19-2",
+    "postcode": "213-0001",
+    "phone": "044-811-5081"
+  },
+  {
+    "name": "たちばな中央保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030876.html",
+    "address": "高津区千年1300",
+    "postcode": "213-0022",
+    "phone": "044-753-2525"
+  },
+  {
+    "name": "くじ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030880.html",
+    "address": "高津区久地3-16-1",
+    "postcode": "213-0032",
+    "phone": "044-829-0150"
+  },
+  {
+    "name": "二子保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030890.html",
+    "address": "高津区二子5-14-56",
+    "postcode": "213-0002",
+    "phone": "044-812-0088"
+  },
+  {
+    "name": "パレット保育園・高津",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030896.html",
+    "address": "高津区二子2-13-5",
+    "postcode": "213-0002",
+    "phone": "044-829-0149"
+  },
+  {
+    "name": "レッツ・びー梶ヶ谷保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030900.html",
+    "address": "高津区下作延2-35-1　スペースアメニティ梶ヶ谷1F",
+    "postcode": "213-0033",
+    "phone": "044-856-3721"
+  },
+  {
+    "name": "YMCAたかつ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030907.html",
+    "address": "高津区溝口1-19-1",
+    "postcode": "213-0001",
+    "phone": "044-281-7833"
+  },
+  {
+    "name": "スターチャイルドKSPナーサリー",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030913.html",
+    "address": "高津区坂戸3-2-1　かながわサイエンスパーク内",
+    "postcode": "213-0012",
+    "phone": "044-820-8331"
+  },
+  {
+    "name": "アートチャイルドケア津田山きらら",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030921.html",
+    "address": "高津区下作延6-6-21　アネックスK",
+    "postcode": "213-0033",
+    "phone": "044-281-8889"
+  },
+  {
+    "name": "このはな保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030931.html",
+    "address": "高津区久地1-19-8　ガーデンパレス2階",
+    "postcode": "213-0032",
+    "phone": "044-811-8550"
+  },
+  {
+    "name": "アスク高津保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030938.html",
+    "address": "高津区溝口6-23-16",
+    "postcode": "213-0001",
+    "phone": "044-829-4110"
+  },
+  {
+    "name": "すこやか高津保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030944.html",
+    "address": "高津区二子5-1-5",
+    "postcode": "213-0002",
+    "phone": "044-833-8862"
+  },
+  {
+    "name": "レッツ・びー溝の口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030950.html",
+    "address": "高津区溝口2-16-6",
+    "postcode": "213-0001",
+    "phone": "044-811-7230"
+  },
+  {
+    "name": "レッツ・びー久本保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000030859.html",
+    "address": "高津区久本3-13-5",
+    "postcode": "213-0011",
+    "phone": "044-299-9472"
+  },
+  {
+    "name": "アスク溝の口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031216.html",
+    "address": "高津区下作延2-7-41",
+    "postcode": "213-0033",
+    "phone": "044-862-4187"
+  },
+  {
+    "name": "アスクかじがや保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031224.html",
+    "address": "高津区梶ヶ谷3-12-6",
+    "postcode": "213-0015",
+    "phone": "044-871-7256"
+  },
+  {
+    "name": "末長こぐま保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031228.html",
+    "address": "高津区末長1289-3",
+    "postcode": "213-0013",
+    "phone": "044-948-6615"
+  },
+  {
+    "name": "うめのき保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031236.html",
+    "address": "高津区久地3-13-1",
+    "postcode": "213-0032",
+    "phone": "044-829-1830"
+  },
+  {
+    "name": "レッツ・びー千年保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031239.html",
+    "address": "高津区千年717",
+    "postcode": "213-0022",
+    "phone": "044-863-7300"
+  },
+  {
+    "name": "アスク武蔵新城保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031242.html",
+    "address": "高津区新作4-19-4",
+    "postcode": "213-0014",
+    "phone": "044-870-2133"
+  },
+  {
+    "name": "アスク高津えきまえ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000031244.html",
+    "address": "高津区溝口3-8-17",
+    "postcode": "213-0001",
+    "phone": "044-833-5590"
+  },
+  {
+    "name": "あいみー溝口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000119652.html",
+    "address": "高津区溝口3-14-4",
+    "postcode": "213-0001",
+    "phone": "044-455-6911"
+  },
+  {
+    "name": "まなびの森保育園高津　分園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000050754.html",
+    "address": "高津区溝口3-9-4",
+    "postcode": "213-0001",
+    "phone": "044-833-7558"
+  },
+  {
+    "name": "溝の口もりのこ保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000065200.html",
+    "address": "高津区坂戸1-552",
+    "postcode": "213-0012",
+    "phone": "044-813-5335"
+  },
+  {
+    "name": "まなびの森保育園高津",
+    "link": "http://www.city.kawasaki.jp/450/page/0000070585.html",
+    "address": "高津区久地1-8-1",
+    "postcode": "213-0032",
+    "phone": "044-813-5520"
+  },
+  {
+    "name": "まなびの森保育園梶ヶ谷",
+    "link": "http://www.city.kawasaki.jp/450/page/0000117061.html",
+    "address": "高津区末長1丁目9番1号　スタイリオ梶が谷3階",
+    "postcode": "213-0013",
+    "phone": "044-877-1900"
+  },
+  {
+    "name": "ソラスト高津保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089317.html",
+    "address": "川崎市高津区二子3-31-3",
+    "postcode": "213-0002",
+    "phone": "044-299-6191"
+  },
+  {
+    "name": "明日葉保育園武蔵新城園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000059716.html",
+    "address": "高津区千年1026",
+    "postcode": "213-0022",
+    "phone": "044-740-9993"
+  },
+  {
+    "name": "ちとせ山ゆり保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000115000.html",
+    "address": "高津区千年970",
+    "postcode": "213-0022",
+    "phone": "044-755-9211"
+  },
+  {
+    "name": "にじいろ保育園武蔵新城",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079020.html",
+    "address": "神奈川県川崎市高津区新作5-17-18",
+    "postcode": "213-0014",
+    "phone": "044-982-0532"
+  },
+  {
+    "name": "にじいろ保育園二子新地",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079463.html",
+    "address": "神奈川県川崎市高津区二子1-17-5",
+    "postcode": "213-0002",
+    "phone": "044-712-3806"
+  },
+  {
+    "name": "子母口わかば保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000059750.html",
+    "address": "高津区子母口378",
+    "postcode": "213-0023",
+    "phone": "044-755-2271"
+  },
+  {
+    "name": "ぶどうの実久地園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089122.html",
+    "address": "川崎市高津区久地4丁目24番5号新川屋センタービル4F",
+    "postcode": "213-0032",
+    "phone": "044-829-6550"
+  },
+  {
+    "name": "ちゃいれっく新作保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000099154.html",
+    "address": "高津区新作4-8-11",
+    "postcode": "213-0014",
+    "phone": "044-789-5665"
+  },
+  {
+    "name": "野川ほのぼの保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078947.html",
+    "address": "川崎市高津区野川3906-4",
+    "postcode": "213-0027",
+    "phone": "044-750-8600"
+  },
+  {
+    "name": "坂戸くれよん保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109776.html",
+    "address": "高津区坂戸1-17-20",
+    "postcode": "213-0012",
+    "phone": "044-299-9010"
+  },
+  {
+    "name": "ファミリア・キッズ二子新地駅前園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109766.html",
+    "address": "高津区二子1-2-25",
+    "postcode": "213-0002",
+    "phone": "044-850-5070"
+  },
+  {
+    "name": "川崎子母口雲母保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109794.html",
+    "address": "高津区子母口545-1",
+    "postcode": "213-0023",
+    "phone": "044-788-5588"
+  },
+  {
+    "name": "西高津くさはな保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000109785.html",
+    "address": "高津区久本3丁目9番9号",
+    "postcode": "213-0011",
+    "phone": "044-543-9311"
+  },
+  {
+    "name": "すこやか諏訪保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000076065.html",
+    "address": "高津区諏訪3-20-15",
+    "postcode": "213-0004",
+    "phone": "044-712-5496"
+  },
+  {
+    "name": "あいみー高津保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078955.html",
+    "address": "高津区溝口5-21-12",
+    "postcode": "213-0001",
+    "phone": "044-281-3883"
+  },
+  {
+    "name": "ニチイキッズ梶ヶ谷保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079439.html",
+    "address": "高津区梶ヶ谷2－7－7",
+    "postcode": "213-0015",
+    "phone": "044-860-1031"
+  },
+  {
+    "name": "にじのそら溝の口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000099140.html",
+    "address": "高津区久本3丁目9番9号",
+    "postcode": "213-0011",
+    "phone": "044-455-7620"
+  },
+  {
+    "name": "天才キッズクラブ楽学館溝の口園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000099143.html",
+    "address": "高津区溝口3-11-20",
+    "postcode": "213-0001",
+    "phone": "044-281-3930"
+  },
+  {
+    "name": "保育園ゆいまあむ",
+    "link": "http://www.city.kawasaki.jp/450/page/0000099129.html",
+    "address": "川崎市高津区末長2丁目15-6",
+    "postcode": "213-0014",
+    "phone": "044-948-6300"
+  },
+  {
+    "name": "ぶどうの実梶ヶ谷園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000076172.html",
+    "address": "高津区新作1-18-4",
+    "postcode": "213-0014",
+    "phone": "044-870-3553"
+  },
+  {
+    "name": "わらべうた溝の口南口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000076744.html",
+    "address": "高津区溝口1-1-30　溝口ブロックスビル201",
+    "postcode": "213-0001",
+    "phone": "044-870-6633"
+  },
+  {
+    "name": "ベネッセ武蔵新城保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000048941.html",
+    "address": "高津区新作6-5-1",
+    "postcode": "213-0014",
+    "phone": "044-871-6502"
+  },
+  {
+    "name": "ベネッセ津田山保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000079078.html",
+    "address": "高津区上作延527-1",
+    "postcode": "213-0034",
+    "phone": "044-870-1188"
+  },
+  {
+    "name": "スターチャイルド≪高津ナーサリー≫保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000078930.html",
+    "address": "高津区二子6-2-3",
+    "postcode": "213-0002",
+    "phone": "044-829-6370"
+  },
+  {
+    "name": "スターチャイルド≪高津溝口ナーサリー≫",
+    "link": "http://www.city.kawasaki.jp/450/page/0000098676.html",
+    "address": "高津区溝口4-15-18",
+    "postcode": "213-0001",
+    "phone": "044-850-2700"
+  },
+  {
+    "name": "千年たちばな保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000089311.html",
+    "address": "川崎市高津区千年107",
+    "postcode": "213-0022",
+    "phone": "044-741-5510"
+  },
+  {
+    "name": "川崎たちばな保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000098639.html",
+    "address": "高津区向ヶ丘1-3",
+    "postcode": "213-0035",
+    "phone": "044-789-9710"
+  },
+  {
+    "name": "小学館アカデミーむさししんじょう第2保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000050735.html",
+    "address": "高津区末長1559-1",
+    "postcode": "213-0013",
+    "phone": "044-850-8651"
+  },
+  {
+    "name": "すこやか溝口保育園",
+    "link": "http://www.city.kawasaki.jp/450/page/0000050753.html",
+    "address": "高津区溝口2-31",
+    "postcode": "213-0001",
+    "phone": "044-543-8120"
+  }
+]

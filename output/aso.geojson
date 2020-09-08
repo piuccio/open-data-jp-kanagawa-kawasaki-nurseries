@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49813629999994,
+          35.5827063
+        ]
+      },
+      "properties": {
+        "name": "上麻生保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031581.html",
+        "address": "麻生区上麻生7-2-3",
+        "postcode": "215-0021",
+        "phone": "044-988-8520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51421347976225,
+          35.61024723874636
+        ]
+      },
+      "properties": {
+        "name": "高石保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031586.html",
+        "address": "麻生区高石1-14-15",
+        "postcode": "215-0003",
+        "phone": "044-954-5355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51020229999995,
+          35.5901428
+        ]
+      },
+      "properties": {
+        "name": "白山保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031608.html",
+        "address": "麻生区白山4-2-1",
+        "postcode": "215-0014",
+        "phone": "044-987-7722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48849500000006,
+          35.6030902
+        ]
+      },
+      "properties": {
+        "name": "社会福祉法人横浜悠久会白鳥保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031616.html",
+        "address": "麻生区白鳥1-17-2",
+        "postcode": "215-0024",
+        "phone": "044-987-8206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49921022206996,
+          35.590441162342444
+        ]
+      },
+      "properties": {
+        "name": "柿生保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031622.html",
+        "address": "麻生区上麻生5-23-1",
+        "postcode": "215-0021",
+        "phone": "044-988-1453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48640535755754,
+          35.58357553222411
+        ]
+      },
+      "properties": {
+        "name": "すぎのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031731.html",
+        "address": "麻生区岡上71-3",
+        "postcode": "215-0027",
+        "phone": "044-988-3415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50238077303578,
+          35.60111969361531
+        ]
+      },
+      "properties": {
+        "name": "あさのみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031739.html",
+        "address": "麻生区上麻生3-22-14",
+        "postcode": "215-0021",
+        "phone": "044-969-5403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51554325584775,
+          35.605693267930654
+        ]
+      },
+      "properties": {
+        "name": "保育園キディ百合丘",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031707.html",
+        "address": "麻生区百合丘1-16　サンラフレ百合丘7-201",
+        "postcode": "215-0011",
+        "phone": "044-322-0510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.46706579938174,
+          35.61605842117435
+        ]
+      },
+      "properties": {
+        "name": "はるひ野保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031699.html",
+        "address": "麻生区はるひ野2-7-1",
+        "postcode": "215-0036",
+        "phone": "044-281-8787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50113077114457,
+          35.60218546253905
+        ]
+      },
+      "properties": {
+        "name": "木下の保育園新百合ヶ丘",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031695.html",
+        "address": "麻生区古沢43　コザワビル2階",
+        "postcode": "215-0026",
+        "phone": "044-959-1169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50632572174072,
+          35.6072602893914
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミー新ゆり山手保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031689.html",
+        "address": "麻生区万福寺4-19　プライムアリーナ新百合ヶ丘1・2階",
+        "postcode": "215-0004",
+        "phone": "044-959-2156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4943658042934,
+          35.600096671917285
+        ]
+      },
+      "properties": {
+        "name": "五月台ルミナス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031679.html",
+        "address": "麻生区五力田3-18-3",
+        "postcode": "215-0025",
+        "phone": "044-299-9111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51552714230834,
+          35.607746180519676
+        ]
+      },
+      "properties": {
+        "name": "至誠館ゆりがおか保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031674.html",
+        "address": "麻生区百合丘1-18-4",
+        "postcode": "215-0011",
+        "phone": "044-966-5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.46298114795346,
+          35.61733009575521
+        ]
+      },
+      "properties": {
+        "name": "くろかわのぞみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031672.html",
+        "address": "麻生区はるひ野4-7-1",
+        "postcode": "215-0036",
+        "phone": "044-819-7481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49707661904733,
+          35.589542588553805
+        ]
+      },
+      "properties": {
+        "name": "アスク柿生保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031663.html",
+        "address": "麻生区上麻生5-40-4",
+        "postcode": "215-0021",
+        "phone": "044-980-0750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51534069249752,
+          35.60794321555373
+        ]
+      },
+      "properties": {
+        "name": "百合丘ルミナス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000090346.html",
+        "address": "麻生区百合丘1-19-2",
+        "postcode": "215-0011",
+        "phone": "044-969-5258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4972106092129,
+          35.59087671736263
+        ]
+      },
+      "properties": {
+        "name": "柿生ルミナス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078961.html",
+        "address": "麻生区片平2-30-1",
+        "postcode": "215-0023",
+        "phone": "044-980-1622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5075022452148,
+          35.60772863915808
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館万福寺園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118962.html",
+        "address": "麻生区片平2-30-1",
+        "postcode": "215-0023",
+        "phone": "044-322-9739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51278612346368,
+          35.60811484914324
+        ]
+      },
+      "properties": {
+        "name": "あい・あい保育園百合ヶ丘園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079522.html",
+        "address": "麻生区万福寺4-1-3",
+        "postcode": "215-0004",
+        "phone": "044-543-8709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.505089880281,
+          35.60101279930139
+        ]
+      },
+      "properties": {
+        "name": "クレアナーサリー新百合ヶ丘",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060144.html",
+        "address": "麻生区上麻生3-1-1",
+        "postcode": "215-0021",
+        "phone": "044-322-9251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49309726314206,
+          35.59231055854413
+        ]
+      },
+      "properties": {
+        "name": "くりの実保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098539.html",
+        "address": "麻生区片平4-1-30",
+        "postcode": "215-0023",
+        "phone": "044-712-0660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.47725307120697,
+          35.60494889434406
+        ]
+      },
+      "properties": {
+        "name": "アイン栗平保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079018.html",
+        "address": "麻生区栗木台1-1-16",
+        "postcode": "215-0032",
+        "phone": "044-988-3115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51020506277976,
+          35.603138334956135
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079034.html",
+        "address": "麻生区上麻生1-3-9　新百合ヶ丘KIビル2階",
+        "postcode": "215-0021",
+        "phone": "044-959-3773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51539580776938,
+          35.6058958807319
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館百合ヶ丘園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098381.html",
+        "address": "麻生区上麻生1-3-9　新百合ヶ丘KIビル2階",
+        "postcode": "215-0021",
+        "phone": "044-712-5025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50011678267578,
+          35.60088824617292
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館古沢園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109001.html",
+        "address": "麻生区片平2-30-1",
+        "postcode": "215-0023",
+        "phone": "044-455-5651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51866969326286,
+          35.61023200914354
+        ]
+      },
+      "properties": {
+        "name": "ポピンズナーサリースクール百合ヶ丘",
+        "link": "http://www.city.kawasaki.jp/450/page/0000076548.html",
+        "address": "麻生区百合丘1-24-9",
+        "postcode": "215-0011",
+        "phone": "044-959-5421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50860490857715,
+          35.58316340302845
+        ]
+      },
+      "properties": {
+        "name": "王禅寺しらゆり保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079048.html",
+        "address": "神奈川県川崎市麻生区王禅寺東5-3-53",
+        "postcode": "215-0018",
+        "phone": "044-988-0700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5073576118277,
+          35.59930745265958
+        ]
+      },
+      "properties": {
+        "name": "つくしんぼ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089833.html",
+        "address": "麻生区上麻生3-3－11",
+        "postcode": "215-0021",
+        "phone": "044-967-0331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50476435456446,
+          35.578952021553704
+        ]
+      },
+      "properties": {
+        "name": "はじめの一歩保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000061141.html",
+        "address": "麻生区上麻生7-41-5",
+        "postcode": "215-0021",
+        "phone": "044-981-5105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50812609391832,
+          35.608875892734325
+        ]
+      },
+      "properties": {
+        "name": "麻生ゆりのき保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060143.html",
+        "address": "麻生区千代ヶ丘1-17-2",
+        "postcode": "215-0005",
+        "phone": "044-543-9041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5001528349158,
+          35.605489294363664
+        ]
+      },
+      "properties": {
+        "name": "アスク新百合ヶ丘保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048912.html",
+        "address": "麻生区古沢197-6",
+        "postcode": "215-0026",
+        "phone": "044-969-5002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48181359428744,
+          35.60583460795737
+        ]
+      },
+      "properties": {
+        "name": "ぶれすと白鳥ほいくえん",
+        "link": "http://www.city.kawasaki.jp/450/page/0000090676.html",
+        "address": "麻生区白鳥三丁目5番1号",
+        "postcode": "215-0021",
+        "phone": "044-455-7266"
+      }
+    }
+  ]
+}

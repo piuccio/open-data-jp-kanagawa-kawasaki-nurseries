@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59566040000004,
+          35.5681808
+        ]
+      },
+      "properties": {
+        "name": "有馬保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031263.html",
+        "address": "宮前区東有馬5-16-1",
+        "postcode": "216-0002",
+        "phone": "044-888-3751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56118149999998,
+          35.5968237
+        ]
+      },
+      "properties": {
+        "name": "菅生保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031275.html",
+        "address": "宮前区初山1-23-15",
+        "postcode": "216-0026",
+        "phone": "044-977-9320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57481329999996,
+          35.6018785
+        ]
+      },
+      "properties": {
+        "name": "平保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031290.html",
+        "address": "宮前区平2-13-1",
+        "postcode": "216-0022",
+        "phone": "044-865-1031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58528879999994,
+          35.5777016
+        ]
+      },
+      "properties": {
+        "name": "中有馬保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031296.html",
+        "address": "宮前区有馬3-2-10",
+        "postcode": "216-0003",
+        "phone": "044-854-0425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57353939999996,
+          35.5858198
+        ]
+      },
+      "properties": {
+        "name": "土橋保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031310.html",
+        "address": "宮前区土橋2-14-1",
+        "postcode": "216-0005",
+        "phone": "044-855-2877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5902179110489,
+          35.585098588025815
+        ]
+      },
+      "properties": {
+        "name": "みやざき保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031315.html",
+        "address": "宮前区宮前平1-2-2",
+        "postcode": "216-0006",
+        "phone": "044-855-7520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60899678170665,
+          35.56957895239373
+        ]
+      },
+      "properties": {
+        "name": "野川南台保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031332.html",
+        "address": "宮前区野川2252-6",
+        "postcode": "216-0001",
+        "phone": "044-740-1833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58431038530114,
+          35.58071127237864
+        ]
+      },
+      "properties": {
+        "name": "こどものいえもも保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031341.html",
+        "address": "宮前区馬絹1－24－9",
+        "postcode": "216-0035",
+        "phone": "044-860-2415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5905282588933,
+          35.58260430228072
+        ]
+      },
+      "properties": {
+        "name": "もものか保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031346.html",
+        "address": "宮前区馬絹1ー9ー2",
+        "postcode": "216-0035",
+        "phone": "044-860-2781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5740045300912,
+          35.580961951302974
+        ]
+      },
+      "properties": {
+        "name": "さぎ沼なごみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031352.html",
+        "address": "宮前区土橋3-1-6",
+        "postcode": "216-0005",
+        "phone": "044-871-7531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56960958221117,
+          35.57752971563277
+        ]
+      },
+      "properties": {
+        "name": "アスクさぎぬま保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031361.html",
+        "address": "宮前区鷺沼1-22-6",
+        "postcode": "216-0004",
+        "phone": "044-860-2708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58282606937544,
+          35.585059495210025
+        ]
+      },
+      "properties": {
+        "name": "アスク宮前平えきまえ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031363.html",
+        "address": "宮前区宮前平1-12-5",
+        "postcode": "216-0006",
+        "phone": "044-856-7911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61024150797186,
+          35.577186500988496
+        ]
+      },
+      "properties": {
+        "name": "ティンクル上野川保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031367.html",
+        "address": "宮前区西野川2-37-13",
+        "postcode": "216-0044",
+        "phone": "044-752-2868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58340902330875,
+          35.589007762544135
+        ]
+      },
+      "properties": {
+        "name": "宮前平もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031372.html",
+        "address": "宮前区宮前平2-5-16",
+        "postcode": "216-0006",
+        "phone": "044-865-2116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5700979232788,
+          35.57646276345974
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミーさぎぬま保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031378.html",
+        "address": "宮前区鷺沼1-23-7",
+        "postcode": "216-0004",
+        "phone": "044-862-8721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5698239355902,
+          35.57459974958142
+        ]
+      },
+      "properties": {
+        "name": "ぶどうの実鷺沼園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031389.html",
+        "address": "宮前区鷺沼2-7-23",
+        "postcode": "216-0004",
+        "phone": "044-870-7171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5837432214264,
+          35.58557902143938
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミーみやまえだいら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031393.html",
+        "address": "宮前区宮前平2-1-2",
+        "postcode": "216-0006",
+        "phone": "044-862-8615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58570484795916,
+          35.58563345089239
+        ]
+      },
+      "properties": {
+        "name": "みやまえの杜保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119666.html",
+        "address": "宮前区宮前平3-9-1",
+        "postcode": "210-0006",
+        "phone": "044-872-7455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5960934244063,
+          35.580961785712255
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園馬絹",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119069.html",
+        "address": "宮前区馬絹4-1-18",
+        "postcode": "216-0035",
+        "phone": "044-750-7878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5873098795107,
+          35.58338158860379
+        ]
+      },
+      "properties": {
+        "name": "スターチャイルド≪宮前平ナーサリー≫",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118850.html",
+        "address": "宮前区馬絹1丁目6-8　宮前平DRビル2F",
+        "postcode": "216-0035",
+        "phone": "044-870-0888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59246146592196,
+          35.58233292645223
+        ]
+      },
+      "properties": {
+        "name": "明日葉保育園宮崎台園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000091557.html",
+        "address": "神奈川県川崎市宮前区馬絹2-2-3",
+        "postcode": "216-0035",
+        "phone": "044-948-7080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57504707931764,
+          35.5758368163104
+        ]
+      },
+      "properties": {
+        "name": "明日葉保育園鷺沼園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060137.html",
+        "address": "宮前区鷺沼1-6-3",
+        "postcode": "216-0004",
+        "phone": "044-982-9186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57906235732403,
+          35.584751110874194
+        ]
+      },
+      "properties": {
+        "name": "あい・あい保育園　宮前平園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109928.html",
+        "address": "宮前区土橋2-1-7",
+        "postcode": "216-0005",
+        "phone": "044-750-7288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58765368399395,
+          35.58556310084291
+        ]
+      },
+      "properties": {
+        "name": "アスク宮崎台保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060237.html",
+        "address": "宮前区宮前平1-1-15",
+        "postcode": "216-0006",
+        "phone": "044-871-2108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57759556993702,
+          35.58477676707176
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園宮前平",
+        "link": "http://www.city.kawasaki.jp/450/page/0000065201.html",
+        "address": "宮前区土橋2-5-1",
+        "postcode": "216-0005",
+        "phone": "044-855-5123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56477642059326,
+          35.581541244855444
+        ]
+      },
+      "properties": {
+        "name": "かわさき犬蔵保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000068984.html",
+        "address": "宮前区犬蔵2-4-29",
+        "postcode": "216-0004",
+        "phone": "044-978-5080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59280969611714,
+          35.58842767229327
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園宮崎台",
+        "link": "http://www.city.kawasaki.jp/450/page/0000093259.html",
+        "address": "宮前区宮崎2-3-11",
+        "postcode": "216-0033",
+        "phone": "044-853-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57309663295746,
+          35.57529697971992
+        ]
+      },
+      "properties": {
+        "name": "わらべうた鷺沼保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078849.html",
+        "address": "宮前区鷺沼1－8－5",
+        "postcode": "216-0004",
+        "phone": "044-982-1313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58956003189087,
+          35.58726505776839
+        ]
+      },
+      "properties": {
+        "name": "わらべうた宮崎台保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070504.html",
+        "address": "川崎市宮前区宮崎2－9－3　メゾン・ド・バッハ3階",
+        "postcode": "216-0033",
+        "phone": "044-870-1144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5816275667137,
+          35.570844748276585
+        ]
+      },
+      "properties": {
+        "name": "有馬の杜コスモス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070774.html",
+        "address": "宮前区有馬6-10-31",
+        "postcode": "216-0003",
+        "phone": "044-982-3380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58554757058684,
+          35.58112524557663
+        ]
+      },
+      "properties": {
+        "name": "ピュアリー宮前平保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000080718.html",
+        "address": "宮前区馬絹1ー28ー12",
+        "postcode": "216-0035",
+        "phone": "044-852-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55414262394564,
+          35.59263443405109
+        ]
+      },
+      "properties": {
+        "name": "みなみすがお保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109891.html",
+        "address": "宮前区菅生4-4-1",
+        "postcode": "216-0015",
+        "phone": "044-863-8741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5688577515891,
+          35.585324031248476
+        ]
+      },
+      "properties": {
+        "name": "たつのこのはら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050757.html",
+        "address": "宮前区土橋4-7-1",
+        "postcode": "216-0005",
+        "phone": "044-920-9200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5942080711628,
+          35.57073162658224
+        ]
+      },
+      "properties": {
+        "name": "有馬川はなみずき保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048968.html",
+        "address": "宮前区東有馬5-23-43",
+        "postcode": "216-0002",
+        "phone": "044-870-3434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61347263853565,
+          35.571385688884185
+        ]
+      },
+      "properties": {
+        "name": "ティンクルくぬぎ坂保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050759.html",
+        "address": "宮前区野川1483-1",
+        "postcode": "216-0001",
+        "phone": "044-920-9611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59386014232547,
+          35.589983426486896
+        ]
+      },
+      "properties": {
+        "name": "すきっぷ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000069753.html",
+        "address": "宮前区宮崎2－1－1生活クラブ高津センター2階",
+        "postcode": "216-0033",
+        "phone": "044-877-6215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57612681306563,
+          35.58603011829414
+        ]
+      },
+      "properties": {
+        "name": "あおぞら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000091624.html",
+        "address": "川崎市宮前区土橋2-11-12 向山ビル2F",
+        "postcode": "216-0005",
+        "phone": "044-820-6852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56081121282267,
+          35.58608877908924
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園犬蔵",
+        "link": "http://www.city.kawasaki.jp/450/page/0000069385.html",
+        "address": "宮前区犬蔵2-24-10",
+        "postcode": "216-0011",
+        "phone": "044-982-3144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5867792061346,
+          35.58338847117565
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園宮前平",
+        "link": "http://www.city.kawasaki.jp/450/page/0000088465.html",
+        "address": "神奈川県川崎市宮前区馬絹1-6-2",
+        "postcode": "216-0035",
+        "phone": "044-982-0790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58935501088357,
+          35.587898942136974
+        ]
+      },
+      "properties": {
+        "name": "宮崎台コスモス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109879.html",
+        "address": "宮前区宮崎2丁目6-10　1F",
+        "postcode": "216-0033",
+        "phone": "044-877-5624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59002736537852,
+          35.5879250132472
+        ]
+      },
+      "properties": {
+        "name": "保育園SCOPS宮崎台",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108324.html",
+        "address": "宮前区宮崎2-9-15　アーバンコート宮崎台1F",
+        "postcode": "216-0033",
+        "phone": "044-861-1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57788835792743,
+          35.58576092576467
+        ]
+      },
+      "properties": {
+        "name": "くぬぎ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109889.html",
+        "address": "宮前区土橋1-4-5",
+        "postcode": "216-0005",
+        "phone": "044-750-9889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59156460229724,
+          35.57351337997649
+        ]
+      },
+      "properties": {
+        "name": "ナーサリールーム ベリーベアー鷺沼Annex",
+        "link": "http://www.city.kawasaki.jp/450/page/0000091565.html",
+        "address": "宮前区東有馬2-35-38",
+        "postcode": "216-0002",
+        "phone": "044-863-6007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57181937853954,
+          35.57852799356529
+        ]
+      },
+      "properties": {
+        "name": "ナーサリールームベリーベアー鷺沼",
+        "link": "http://www.city.kawasaki.jp/450/page/0000068853.html",
+        "address": "宮前区鷺沼3-5-2　MCビル1～3階",
+        "postcode": "216-0004",
+        "phone": "044-948-7941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58047339300072,
+          35.58566407982745
+        ]
+      },
+      "properties": {
+        "name": "宮前空翠保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078062.html",
+        "address": "川崎市宮前区土橋1-2-3",
+        "postcode": "216-0005",
+        "phone": "044-855-8815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5720198493901,
+          35.579697493175715
+        ]
+      },
+      "properties": {
+        "name": "ピュアリー鷺沼保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099411.html",
+        "address": "宮前区鷺沼3-2-4",
+        "postcode": "216-0004",
+        "phone": "044-948-8458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56959997113591,
+          35.57425965918555
+        ]
+      },
+      "properties": {
+        "name": "ぶどうの実第2さぎぬま園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099407.html",
+        "address": "宮前区鷺沼2-6-5",
+        "postcode": "216-0004",
+        "phone": "044-860-3315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59590265964576,
+          35.579281738291094
+        ]
+      },
+      "properties": {
+        "name": "保育園アリス馬絹",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099412.html",
+        "address": "宮前区馬絹4-18-27",
+        "postcode": "216-0035",
+        "phone": "044-872-7071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5869840288286,
+          35.601210803736144
+        ]
+      },
+      "properties": {
+        "name": "グリーンフォレスト神木保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060139.html",
+        "address": "宮前区神木本町2-5-5",
+        "postcode": "216-0031",
+        "phone": "044-871-7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57868999267603,
+          35.57917678397592
+        ]
+      },
+      "properties": {
+        "name": "西有馬おひさま保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060269.html",
+        "address": "宮前区有馬1-8-6",
+        "postcode": "216-0003",
+        "phone": "044-855-2525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5890885880874,
+          35.58932593144511
+        ]
+      },
+      "properties": {
+        "name": "ナーサリールーム ベリーベアー宮崎台",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099545.html",
+        "address": "宮前区宮崎3-13-27",
+        "postcode": "216-0033",
+        "phone": "044-750-9800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56961087339565,
+          35.59241676537393
+        ]
+      },
+      "properties": {
+        "name": "向丘はなみずき保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000091732.html",
+        "address": "川崎市宮前区南平台4－2",
+        "postcode": "216-0024",
+        "phone": "044-750-0150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5841573468181,
+          35.584994174758556
+        ]
+      },
+      "properties": {
+        "name": "可愛保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000091570.html",
+        "address": "川崎市宮前区宮前平1－9－24　A101・A102",
+        "postcode": "216-0006",
+        "phone": "044-855-8496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58372368650703,
+          35.58192518573618
+        ]
+      },
+      "properties": {
+        "name": "クレアナーサリー宮前平",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070578.html",
+        "address": "宮前区小台2－11－3",
+        "postcode": "216-0007",
+        "phone": "044-872-9368"
+      }
+    }
+  ]
+}
