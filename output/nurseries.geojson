@@ -1,0 +1,1637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67760240000007,
+          35.5616457
+        ]
+      },
+      "properties": {
+        "name": "平間保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031455.html",
+        "address": "中原区上平間366",
+        "postcode": "211-0013",
+        "phone": "044-533-0116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67760240000007,
+          35.5616457
+        ]
+      },
+      "properties": {
+        "name": "平間乳児保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031280.html",
+        "address": "中原区上平間366",
+        "postcode": "211-0013",
+        "phone": "044-533-0117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6715193,
+          35.5708943
+        ]
+      },
+      "properties": {
+        "name": "中丸子保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031267.html",
+        "address": "中原区中丸子1155",
+        "postcode": "211-0012",
+        "phone": "044-411-5559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65563724460964,
+          35.575895465680105
+        ]
+      },
+      "properties": {
+        "name": "中原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031250.html",
+        "address": "中原区小杉町3-245（仮園舎）",
+        "postcode": "211-0063",
+        "phone": "044-733-3835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63895509999998,
+          35.5774876
+        ]
+      },
+      "properties": {
+        "name": "下小田中保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031235.html",
+        "address": "中原区下小田中4-4-17",
+        "postcode": "211-0041",
+        "phone": "044-788-5890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63910499649978,
+          35.59187481773502
+        ]
+      },
+      "properties": {
+        "name": "西宮内保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000031032.html",
+        "address": "中原区宮内1-21-27（仮園舎）",
+        "postcode": "211-0051",
+        "phone": "044-755-6266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6354162,
+          35.5819258
+        ]
+      },
+      "properties": {
+        "name": "さくらの木保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030989.html",
+        "address": "中原区下小田中1-11-1",
+        "postcode": "211-0041",
+        "phone": "044-766-6001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6354162,
+          35.5819258
+        ]
+      },
+      "properties": {
+        "name": "さくらの木乳児保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030983.html",
+        "address": "中原区下小田中1-11-1",
+        "postcode": "211-0041",
+        "phone": "044-751-9038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67825436448155,
+          35.55486729637738
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園南平間",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030978.html",
+        "address": "中原区上平間1183",
+        "postcode": "211-0013",
+        "phone": "044-511-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6690351925932,
+          35.57691826605358
+        ]
+      },
+      "properties": {
+        "name": "多摩保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030957.html",
+        "address": "中原区上丸子山王町2-1337",
+        "postcode": "211-0002",
+        "phone": "044-411-1122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65371021168392,
+          35.56917623323593
+        ]
+      },
+      "properties": {
+        "name": "新日本保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030839.html",
+        "address": "中原区木月伊勢町3-3",
+        "postcode": "211-0032",
+        "phone": "044-722-3203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64427940721598,
+          35.56633058385081
+        ]
+      },
+      "properties": {
+        "name": "長寿保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030810.html",
+        "address": "中原区井田中ノ町12-20",
+        "postcode": "211-0034",
+        "phone": "044-777-5403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65532167669105,
+          35.55839659324387
+        ]
+      },
+      "properties": {
+        "name": "木月保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030797.html",
+        "address": "中原区木月4-42-14",
+        "postcode": "211-0025",
+        "phone": "044-433-1958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64286757417665,
+          35.56323399634678
+        ]
+      },
+      "properties": {
+        "name": "井田保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030779.html",
+        "address": "中原区井田1-26-33",
+        "postcode": "211-0035",
+        "phone": "044-751-1637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65770759046183,
+          35.57089734861636
+        ]
+      },
+      "properties": {
+        "name": "すみれ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030762.html",
+        "address": "中原区木月住吉町1-12",
+        "postcode": "211-0021",
+        "phone": "044-430-5544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6362924399222,
+          35.59317290166262
+        ]
+      },
+      "properties": {
+        "name": "ももの里保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030738.html",
+        "address": "中原区宮内2-26-40",
+        "postcode": "211-0051",
+        "phone": "044-753-2980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66212038586332,
+          35.57838919644723
+        ]
+      },
+      "properties": {
+        "name": "こすぎっこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030718.html",
+        "address": "中原区新丸子東2-901",
+        "postcode": "211-0004",
+        "phone": "044-411-6594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65597055174874,
+          35.56394481151069
+        ]
+      },
+      "properties": {
+        "name": "わおわお元住吉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030701.html",
+        "address": "中原区木月2-17-1",
+        "postcode": "211-0025",
+        "phone": "044-431-1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66132080168106,
+          35.58076839706806
+        ]
+      },
+      "properties": {
+        "name": "まるこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030695.html",
+        "address": "中原区新丸子町726-5　ソレイユ倶楽部2",
+        "postcode": "211-0005",
+        "phone": "044-733-8550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63341980912082,
+          35.58751777496088
+        ]
+      },
+      "properties": {
+        "name": "アスク上小田中保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030680.html",
+        "address": "中原区上小田中3-25-29",
+        "postcode": "211-0053",
+        "phone": "044-740-5520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659891552644,
+          35.57488448003208
+        ]
+      },
+      "properties": {
+        "name": "ベネッセ武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030655.html",
+        "address": "中原区新丸子東3-1100-12 パークシティ武蔵小杉ミッドスカイタワー3F",
+        "postcode": "211-0004",
+        "phone": "044-430-0203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6508085006831,
+          35.57683741075763
+        ]
+      },
+      "properties": {
+        "name": "茶々いまい保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030648.html",
+        "address": "中原区今井仲町5-31",
+        "postcode": "211-0065",
+        "phone": "044-739-8551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6603661843157,
+          35.581344743427074
+        ]
+      },
+      "properties": {
+        "name": "アスク新丸子保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030637.html",
+        "address": "中原区新丸子町718　1・2F",
+        "postcode": "211-0005",
+        "phone": "044-738-0081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65903982206802,
+          35.569191410896885
+        ]
+      },
+      "properties": {
+        "name": "たんぽぽのはら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030632.html",
+        "address": "中原区市ノ坪223-9",
+        "postcode": "211-0016",
+        "phone": "044-430-0143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65330647854893,
+          35.56740806783948
+        ]
+      },
+      "properties": {
+        "name": "すみよしのはら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030618.html",
+        "address": "中原区木月祇園町17-2",
+        "postcode": "211-0025",
+        "phone": "044-411-6311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65074991800404,
+          35.56561269221898
+        ]
+      },
+      "properties": {
+        "name": "アスク元住吉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030603.html",
+        "address": "中原区木月3-8-19",
+        "postcode": "211-0025",
+        "phone": "044-430-5613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65454014409158,
+          35.56790283351886
+        ]
+      },
+      "properties": {
+        "name": "らいらっく保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030599.html",
+        "address": "中原区木月伊勢町6-1",
+        "postcode": "211-0032",
+        "phone": "044-872-9888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64256296389894,
+          35.57570311568956
+        ]
+      },
+      "properties": {
+        "name": "アスク下小田中保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030569.html",
+        "address": "中原区下小田中3-29-16",
+        "postcode": "211-0041",
+        "phone": "044-741-1230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6598905241269,
+          35.57792118414478
+        ]
+      },
+      "properties": {
+        "name": "アスク武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030546.html",
+        "address": "中原区小杉町1-526-5",
+        "postcode": "211-0063",
+        "phone": "044-739-4750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62979567406435,
+          35.58472745184396
+        ]
+      },
+      "properties": {
+        "name": "せせらぎ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030450.html",
+        "address": "中原区新城1-14-7",
+        "postcode": "211-0044",
+        "phone": "044-752-6892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6312040509344,
+          35.58415657200708
+        ]
+      },
+      "properties": {
+        "name": "新城もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030463.html",
+        "address": "中原区新城1-15-13",
+        "postcode": "211-0044",
+        "phone": "044-798-7015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65285415294403,
+          35.576759435157264
+        ]
+      },
+      "properties": {
+        "name": "茶々なかまち保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030487.html",
+        "address": "中原区今井仲町2-28",
+        "postcode": "211-0065",
+        "phone": "044-738-0221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66335010755034,
+          35.57401297240173
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園小杉",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030495.html",
+        "address": "中原区新丸子東3-1241-4",
+        "postcode": "211-0004",
+        "phone": "044-422-5111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67106908973395,
+          35.561978512279204
+        ]
+      },
+      "properties": {
+        "name": "アスク平間保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030501.html",
+        "address": "中原区北谷町7　1・2階",
+        "postcode": "211-0015",
+        "phone": "044-542-6920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67038255581733,
+          35.569786461956355
+        ]
+      },
+      "properties": {
+        "name": "アスク向河原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030508.html",
+        "address": "中原区中丸子364-1",
+        "postcode": "211-0012",
+        "phone": "044-431-3090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6509492,
+          35.5626624
+        ]
+      },
+      "properties": {
+        "name": "ベネッセ元住吉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030512.html",
+        "address": "中原区木月3-35-20",
+        "postcode": "211-0025",
+        "phone": "044-431-3171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66303140000002,
+          35.564737
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミーかりやど保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030520.html",
+        "address": "中原区苅宿3-6",
+        "postcode": "211-0022",
+        "phone": "044-430-0180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64587970000164,
+          35.57431309999973
+        ]
+      },
+      "properties": {
+        "name": "武蔵中原もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030524.html",
+        "address": "中原区下小田中3-7-20",
+        "postcode": "211-0041",
+        "phone": "044-777-5666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63263980898432,
+          35.58827554980709
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミーむさししんじょう保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030527.html",
+        "address": "中原区上小田中2-35-44",
+        "postcode": "211-0053",
+        "phone": "044-753-2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63819076250277,
+          35.57931409789509
+        ]
+      },
+      "properties": {
+        "name": "アートチャイルドケア武蔵中原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030531.html",
+        "address": "中原区下小田中1-22-11",
+        "postcode": "211-0041",
+        "phone": "044-750-2123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63271640000124,
+          35.58348390000004
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園新城",
+        "link": "http://www.city.kawasaki.jp/450/page/0000030537.html",
+        "address": "中原区新城中町6-20",
+        "postcode": "211-0043",
+        "phone": "044-777-3322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67151187534728,
+          35.562827328020056
+        ]
+      },
+      "properties": {
+        "name": "社会福祉法人長幼会玉川保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000101160.html",
+        "address": "川崎市中原区北谷町61番地",
+        "postcode": "211-0015",
+        "phone": "044-555-1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63124932282673,
+          35.59171833432357
+        ]
+      },
+      "properties": {
+        "name": "社会福祉法人けいわ会上小田中保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000060581.html",
+        "address": "中原区上小田中1－28－25",
+        "postcode": "211-0053",
+        "phone": "044-982-9215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63640938059368,
+          35.583039239564656
+        ]
+      },
+      "properties": {
+        "name": "ぶれあ保育園・武蔵中原第二",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119779.html",
+        "address": "中原区上小田中5-9-16",
+        "postcode": "211-0053",
+        "phone": "044-982-1174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637971767349,
+          35.58277723528984
+        ]
+      },
+      "properties": {
+        "name": "ぶれあ保育園・武蔵中原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098654.html",
+        "address": "中原区上小田中5-9-13",
+        "postcode": "211-0053",
+        "phone": "044-948-9634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63801731150272,
+          35.581260918429074
+        ]
+      },
+      "properties": {
+        "name": "こころむさしなかはら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119691.html",
+        "address": "中原区小田中1丁目7-23",
+        "postcode": "211-0041",
+        "phone": "044-982-1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66037218254655,
+          35.5625544839129
+        ]
+      },
+      "properties": {
+        "name": "マリー保育園元住吉",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119669.html",
+        "address": "中原区西加瀬2-2",
+        "postcode": "211-0024",
+        "phone": "044-948-8760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6565806812645,
+          35.58207229184642
+        ]
+      },
+      "properties": {
+        "name": "エクセレント武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119366.html",
+        "address": "中原区新城1-10-17　JAセレサ川崎4階",
+        "postcode": "211-0044",
+        "phone": "044-733-5106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6387695575956,
+          35.57152844203401
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園武蔵中原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050747.html",
+        "address": "中原区下小田中6-15-13",
+        "postcode": "211-0041",
+        "phone": "044-740-0404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66477839999843,
+          35.56787530000007
+        ]
+      },
+      "properties": {
+        "name": "小杉もりのこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079042.html",
+        "address": "中原区市ノ坪386-4",
+        "postcode": "211-0016",
+        "phone": "044-411-5855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6691390709969,
+          35.567311182700784
+        ]
+      },
+      "properties": {
+        "name": "まなびの森保育園向河原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070717.html",
+        "address": "中原区中丸子324－1",
+        "postcode": "211-0012",
+        "phone": "044-434-3365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66291306324968,
+          35.57695156643862
+        ]
+      },
+      "properties": {
+        "name": "そらいろ武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000118871.html",
+        "address": "中原区上丸子山王町1丁目1390番地白井ビル1F",
+        "postcode": "211-0002",
+        "phone": "044-948-6344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6491716127515,
+          35.5680294677745
+        ]
+      },
+      "properties": {
+        "name": "明日葉保育園元住吉園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078623.html",
+        "address": "中原区木月祇園町6‐31",
+        "postcode": "211-0033",
+        "phone": "044-982-3102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6613135323521,
+          35.578397997394795
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園新丸子",
+        "link": "http://www.city.kawasaki.jp/450/page/0000119159.html",
+        "address": "中原区新丸子町964－3",
+        "postcode": "211-0005",
+        "phone": "044-948-7136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6580488771919,
+          35.57731479104531
+        ]
+      },
+      "properties": {
+        "name": "京進のほいくえんHOPPAパークシティ武蔵小杉",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108786.html",
+        "address": "中原区小杉町二丁目228番地1　ザ・ガーデンタワーズウエスト2階",
+        "postcode": "211-0063",
+        "phone": "044-712-5071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6429884960108,
+          35.58034544922563
+        ]
+      },
+      "properties": {
+        "name": "にじいろ保育園武蔵中原",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089841.html",
+        "address": "中原区上小田中6－18－4",
+        "postcode": "211-0053",
+        "phone": "044-789-5995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6601758689464,
+          35.58084114731395
+        ]
+      },
+      "properties": {
+        "name": "マミークラブ小杉",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109061.html",
+        "address": "中原区新丸子744-2　ソレイユ倶楽部1",
+        "postcode": "211-0005",
+        "phone": "044-733-7743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63884426065022,
+          35.58099493785236
+        ]
+      },
+      "properties": {
+        "name": "ウパウパハウスノア",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108770.html",
+        "address": "中原区下小田中1-13-14",
+        "postcode": "211-0041",
+        "phone": "044-750-0520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6546870188382,
+          35.574200462586326
+        ]
+      },
+      "properties": {
+        "name": "武蔵小杉コスモス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089029.html",
+        "address": "中原区今井南町7-54",
+        "postcode": "211-0064",
+        "phone": "044-738-2886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64171344890082,
+          35.56984534681496
+        ]
+      },
+      "properties": {
+        "name": "レイモンド中原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109772.html",
+        "address": "川崎市中原区井田杉山町7-33",
+        "postcode": "211-0036",
+        "phone": "044-750-9912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66393202043503,
+          35.57810154669971
+        ]
+      },
+      "properties": {
+        "name": "天才キッズクラブ楽学館武蔵小杉園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108993.html",
+        "address": "中原区下小田中1-13-14",
+        "postcode": "211-0041",
+        "phone": "044-982-9638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64332009211978,
+          35.58337169278776
+        ]
+      },
+      "properties": {
+        "name": "神地保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000109313.html",
+        "address": "川崎市中原区上小田中6-34-36",
+        "postcode": "211-0053",
+        "phone": "044-948-4854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6532906384028,
+          35.57945160918644
+        ]
+      },
+      "properties": {
+        "name": "ピュアリー小杉御殿町保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108781.html",
+        "address": "中原区小杉御殿町2-119-14",
+        "postcode": "211-0068",
+        "phone": "044-819-5707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65244306036107,
+          35.57712063515538
+        ]
+      },
+      "properties": {
+        "name": "そらいろ今井西保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108777.html",
+        "address": "中原区今井西町3-15",
+        "postcode": "211-0066",
+        "phone": "044-455-7100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66347766824885,
+          35.57813940295526
+        ]
+      },
+      "properties": {
+        "name": "しらかし保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108773.html",
+        "address": "中原区上丸子山王町1-1454",
+        "postcode": "211-0002",
+        "phone": "044-982-3433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6328286315603,
+          35.58612206471109
+        ]
+      },
+      "properties": {
+        "name": "しらゆり新城保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000107579.html",
+        "address": "神奈川県川崎市中原区新城中町1－18",
+        "postcode": "211-0043",
+        "phone": "044-948-9610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6510032798619,
+          35.569215741410424
+        ]
+      },
+      "properties": {
+        "name": "元住吉おおぞら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000108730.html",
+        "address": "神奈川県川崎市木月祇園町9-24",
+        "postcode": "211-0033",
+        "phone": "044-433-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66166923068855,
+          35.57947061028592
+        ]
+      },
+      "properties": {
+        "name": "小学館アカデミーしんまるこ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050732.html",
+        "address": "中原区新丸子東2-902-1",
+        "postcode": "211-0004",
+        "phone": "044-431-3261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66226809191087,
+          35.568181922461804
+        ]
+      },
+      "properties": {
+        "name": "ベネッセ市ノ坪保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000048963.html",
+        "address": "中原区市ノ坪375",
+        "postcode": "211-0016",
+        "phone": "044-431-3185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6571569767211,
+          35.57627614299011
+        ]
+      },
+      "properties": {
+        "name": "まめの木保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070937.html",
+        "address": "中原区小杉町3-1501　セントア武蔵小杉アA棟3",
+        "postcode": "281-0565",
+        "phone": "044-281-0565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66070036560666,
+          35.576828021790796
+        ]
+      },
+      "properties": {
+        "name": "わらべうた武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079413.html",
+        "address": "中原区新丸子東2-924-65",
+        "postcode": "211-0004",
+        "phone": "044-948-9252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65350175754136,
+          35.576577526347705
+        ]
+      },
+      "properties": {
+        "name": "第2武蔵小杉コスモス保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098209.html",
+        "address": "中原区今井仲町2-32",
+        "postcode": "211-0065",
+        "phone": "044-281-0661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62913886066633,
+          35.59178438137767
+        ]
+      },
+      "properties": {
+        "name": "まんまる保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050737.html",
+        "address": "中原区上小田中1-29-20",
+        "postcode": "211-0053",
+        "phone": "044-920-9700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64738624970673,
+          35.58494108046424
+        ]
+      },
+      "properties": {
+        "name": "みやうち保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070861.html",
+        "address": "中原区宮内4-13-14",
+        "postcode": "211-0051",
+        "phone": "044-982-3266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.640768168885,
+          35.586895959223654
+        ]
+      },
+      "properties": {
+        "name": "しらゆり中原保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000068968.html",
+        "address": "川崎市中原区上小田中6-51-7 プランドール1～3階",
+        "postcode": "211-0053",
+        "phone": "044-982-9045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65032584385787,
+          35.57665318622336
+        ]
+      },
+      "properties": {
+        "name": "茶々むさしこすぎ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078306.html",
+        "address": "中原区今井仲町5-25",
+        "postcode": "211-0065",
+        "phone": "044-739-8001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65241197864327,
+          35.5670823141534
+        ]
+      },
+      "properties": {
+        "name": "心花保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079044.html",
+        "address": "中原区木月祇園町15-6",
+        "postcode": "211-0033",
+        "phone": "044-433-0587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64749566935026,
+          35.57417479224817
+        ]
+      },
+      "properties": {
+        "name": "武蔵小杉おおぞら保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089128.html",
+        "address": "中原区今井西町11-12",
+        "postcode": "211-0066",
+        "phone": "044-299-8889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64587277979393,
+          35.59326497436581
+        ]
+      },
+      "properties": {
+        "name": "しらゆり宮内保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089035.html",
+        "address": "中原区宮内1-4-55",
+        "postcode": "211-0051",
+        "phone": "044-741-1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63144838279229,
+          35.58468355319901
+        ]
+      },
+      "properties": {
+        "name": "エクセレント武蔵新城保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000089027.html",
+        "address": "中原区新城1-10-17　JAセレサ川崎4階",
+        "postcode": "211-0044",
+        "phone": "044-755-5106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6586570877984,
+          35.57340204158277
+        ]
+      },
+      "properties": {
+        "name": "すこやか小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099416.html",
+        "address": "川崎市中原区新丸子東3－447－2",
+        "postcode": "211-0004",
+        "phone": "044-750-9925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6557676004341,
+          35.56057918257223
+        ]
+      },
+      "properties": {
+        "name": "木月ほほえみ保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000099123.html",
+        "address": "中原区木月4-42-14",
+        "postcode": "211-0025",
+        "phone": "044-948-4483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65700618813366,
+          35.567030488299146
+        ]
+      },
+      "properties": {
+        "name": "レイモンド元住吉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098248.html",
+        "address": "神奈川県川崎市中原区木月住吉町2-24",
+        "postcode": "211-0021",
+        "phone": "044-789-5695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6419843520265,
+          35.5837064958299
+        ]
+      },
+      "properties": {
+        "name": "ひまわりほいくえん",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098647.html",
+        "address": "神奈川県川崎市中原区上小田中6丁目45-54",
+        "postcode": "211-0053",
+        "phone": "044-711-6560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67259372132193,
+          35.561409994636264
+        ]
+      },
+      "properties": {
+        "name": "あいみー平間保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098770.html",
+        "address": "川崎市中原区北谷町21-2",
+        "postcode": "211-0015",
+        "phone": "044-211-6941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66394091503196,
+          35.5681212391069
+        ]
+      },
+      "properties": {
+        "name": "武蔵小杉雲母保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098336.html",
+        "address": "川崎市中原区市ノ坪363-7",
+        "postcode": "211-0016",
+        "phone": "044-455-8084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6612696879097,
+          35.5749113427678
+        ]
+      },
+      "properties": {
+        "name": "グローバルキッズ武蔵小杉園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000071121.html",
+        "address": "中原区新丸子東3-1135-1　グランツリー武蔵小杉3F",
+        "postcode": "211-0004",
+        "phone": "044-433-7007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6537404741382,
+          35.56172157742503
+        ]
+      },
+      "properties": {
+        "name": "みらいく木月園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098660.html",
+        "address": "神奈川県川崎市中原区木月4-28-2",
+        "postcode": "211-0025",
+        "phone": "044-750-7191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67340911287076,
+          35.5615550947132
+        ]
+      },
+      "properties": {
+        "name": "ニチイキッズひらま保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000098293.html",
+        "address": "神奈川県川崎市中原区北谷町24-3",
+        "postcode": "211-0015",
+        "phone": "044-542-7577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65660652133957,
+          35.5744224904949
+        ]
+      },
+      "properties": {
+        "name": "アスク今井南保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000093300.html",
+        "address": "中原区今井南町9-35",
+        "postcode": "211-0064",
+        "phone": "044-738-0370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67015046347825,
+          35.56300000447095
+        ]
+      },
+      "properties": {
+        "name": "ぶどうの実平間園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000078262.html",
+        "address": "中原区北谷町693-10",
+        "postcode": "211-0015",
+        "phone": "044-540-3355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6631637036344,
+          35.569534333848004
+        ]
+      },
+      "properties": {
+        "name": "アイン武蔵小杉保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000061386.html",
+        "address": "中原区中丸子1246-6",
+        "postcode": "211-0012",
+        "phone": "044-434-0551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65960238960727,
+          35.5735124907361
+        ]
+      },
+      "properties": {
+        "name": "ポポラー川崎武蔵小杉園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000079231.html",
+        "address": "中原区市ノ坪449番地3　シティタワー武蔵小杉2階",
+        "postcode": "211-0016",
+        "phone": "044-431-8030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65991375707546,
+          35.57558054260828
+        ]
+      },
+      "properties": {
+        "name": "ポピンズナーサリースクール武蔵小杉",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050750.html",
+        "address": "中原区小杉町3-472",
+        "postcode": "211-0063",
+        "phone": "044-738-2127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65527187401983,
+          35.58190411803099
+        ]
+      },
+      "properties": {
+        "name": "アイン武蔵小杉北保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000070841.html",
+        "address": "中原区小杉町2-307-7",
+        "postcode": "211-0063",
+        "phone": "044-722-5588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6541462859119,
+          35.56262567023086
+        ]
+      },
+      "properties": {
+        "name": "アスク元住吉南保育園",
+        "link": "http://www.city.kawasaki.jp/450/page/0000050746.html",
+        "address": "中原区木月4-1-30",
+        "postcode": "211-0025",
+        "phone": "044-430-3230"
+      }
+    }
+  ]
+}

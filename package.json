@@ -16,6 +16,7 @@
   "author": "Fabio Crisci <piuccio@gmail.com> (https://github.com/piuccio)",
   "license": "ISC",
   "devDependencies": {
+    "@piuccio/cached-function": "1.0.2",
     "html-to-json-data": "1.6.0",
     "simple-get-promise": "3.0.0"
   }
